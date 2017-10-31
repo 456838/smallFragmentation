@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "flow",
+      "pkg": "com.salton123.sf.appflow",
+      "rules": {
+        "home": ".ui.fragment.home.HomeFragment",
+        "detail": ".ui.fragment.home.DetailFragment"
+      }
+    },
+    {
+      "uri": "zhihu",
+      "pkg": "com.salton123.sf.appzhihu",
+      "rules": {
+        "first": ".ui.fragment.first.ZhihuFirstFragment",
+        "second": ".ui.fragment.second.ZhihuSecondFragment"
+      }
+    },{
+      "pkg": "com.salton123.sf.libbase"
+    }
+  ]
+}

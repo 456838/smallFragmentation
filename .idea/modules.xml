@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmallFragmentation.iml" filepath="$PROJECT_DIR$/SmallFragmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.flow/app.flow.iml" filepath="$PROJECT_DIR$/app.flow/app.flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.wechat/app.wechat.iml" filepath="$PROJECT_DIR$/app.wechat/app.wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.zhihu/app.zhihu.iml" filepath="$PROJECT_DIR$/app.zhihu/app.zhihu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.base/lib.base.iml" filepath="$PROJECT_DIR$/lib.base/lib.base.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2096 @@
+Package Groups (1)
+Package Group 0 id=0x3c packageCount=1 name=com.salton123.sf.libbase
+  DynamicRefTable entryCount=1:
+    0x3c -> com.salton123.sf.libbase
+
+  Package 0 id=0x3c name=com.salton123.sf.libbase
+    type 0 configCount=1 entryCount=102
+      spec resource 0x3c010000 com.salton123.sf.libbase:attr/expanded: flags=0x00000000
+      spec resource 0x3c010001 com.salton123.sf.libbase:attr/state_collapsed: flags=0x00000000
+      spec resource 0x3c010002 com.salton123.sf.libbase:attr/state_collapsible: flags=0x00000000
+      spec resource 0x3c010003 com.salton123.sf.libbase:attr/layout_scrollFlags: flags=0x00000000
+      spec resource 0x3c010004 com.salton123.sf.libbase:attr/layout_scrollInterpolator: flags=0x00000000
+      spec resource 0x3c010005 com.salton123.sf.libbase:attr/behavior_peekHeight: flags=0x00000000
+      spec resource 0x3c010006 com.salton123.sf.libbase:attr/behavior_hideable: flags=0x00000000
+      spec resource 0x3c010007 com.salton123.sf.libbase:attr/behavior_skipCollapsed: flags=0x00000000
+      spec resource 0x3c010008 com.salton123.sf.libbase:attr/cardBackgroundColor: flags=0x00000000
+      spec resource 0x3c010009 com.salton123.sf.libbase:attr/cardCornerRadius: flags=0x00000000
+      spec resource 0x3c01000a com.salton123.sf.libbase:attr/cardElevation: flags=0x00000000
+      spec resource 0x3c01000b com.salton123.sf.libbase:attr/cardMaxElevation: flags=0x00000000
+      spec resource 0x3c01000c com.salton123.sf.libbase:attr/cardUseCompatPadding: flags=0x00000000
+      spec resource 0x3c01000d com.salton123.sf.libbase:attr/cardPreventCornerOverlap: flags=0x00000000
+      spec resource 0x3c01000e com.salton123.sf.libbase:attr/contentPadding: flags=0x00000000
+      spec resource 0x3c01000f com.salton123.sf.libbase:attr/contentPaddingLeft: flags=0x00000000
+      spec resource 0x3c010010 com.salton123.sf.libbase:attr/contentPaddingRight: flags=0x00000000
+      spec resource 0x3c010011 com.salton123.sf.libbase:attr/contentPaddingTop: flags=0x00000000
+      spec resource 0x3c010012 com.salton123.sf.libbase:attr/contentPaddingBottom: flags=0x00000000
+      spec resource 0x3c010013 com.salton123.sf.libbase:attr/expandedTitleMargin: flags=0x00000000
+      spec resource 0x3c010014 com.salton123.sf.libbase:attr/expandedTitleMarginStart: flags=0x00000000
+      spec resource 0x3c010015 com.salton123.sf.libbase:attr/expandedTitleMarginTop: flags=0x00000000
+      spec resource 0x3c010016 com.salton123.sf.libbase:attr/expandedTitleMarginEnd: flags=0x00000000
+      spec resource 0x3c010017 com.salton123.sf.libbase:attr/expandedTitleMarginBottom: flags=0x00000000
+      spec resource 0x3c010018 com.salton123.sf.libbase:attr/expandedTitleTextAppearance: flags=0x00000000
+      spec resource 0x3c010019 com.salton123.sf.libbase:attr/collapsedTitleTextAppearance: flags=0x00000000
+      spec resource 0x3c01001a com.salton123.sf.libbase:attr/contentScrim: flags=0x00000000
+      spec resource 0x3c01001b com.salton123.sf.libbase:attr/statusBarScrim: flags=0x00000000
+      spec resource 0x3c01001c com.salton123.sf.libbase:attr/toolbarId: flags=0x00000000
+      spec resource 0x3c01001d com.salton123.sf.libbase:attr/scrimVisibleHeightTrigger: flags=0x00000000
+      spec resource 0x3c01001e com.salton123.sf.libbase:attr/scrimAnimationDuration: flags=0x00000000
+      spec resource 0x3c01001f com.salton123.sf.libbase:attr/collapsedTitleGravity: flags=0x00000000
+      spec resource 0x3c010020 com.salton123.sf.libbase:attr/expandedTitleGravity: flags=0x00000000
+      spec resource 0x3c010021 com.salton123.sf.libbase:attr/titleEnabled: flags=0x00000000
+      spec resource 0x3c010022 com.salton123.sf.libbase:attr/layout_collapseMode: flags=0x00000000
+      spec resource 0x3c010023 com.salton123.sf.libbase:attr/layout_collapseParallaxMultiplier: flags=0x00000000
+      spec resource 0x3c010024 com.salton123.sf.libbase:attr/keylines: flags=0x00000000
+      spec resource 0x3c010025 com.salton123.sf.libbase:attr/statusBarBackground: flags=0x00000000
+      spec resource 0x3c010026 com.salton123.sf.libbase:attr/layout_behavior: flags=0x00000000
+      spec resource 0x3c010027 com.salton123.sf.libbase:attr/layout_anchor: flags=0x00000000
+      spec resource 0x3c010028 com.salton123.sf.libbase:attr/layout_keyline: flags=0x00000000
+      spec resource 0x3c010029 com.salton123.sf.libbase:attr/layout_anchorGravity: flags=0x00000000
+      spec resource 0x3c01002a com.salton123.sf.libbase:attr/layout_insetEdge: flags=0x00000000
+      spec resource 0x3c01002b com.salton123.sf.libbase:attr/layout_dodgeInsetEdges: flags=0x00000000
+      spec resource 0x3c01002c com.salton123.sf.libbase:attr/bottomSheetDialogTheme: flags=0x00000000
+      spec resource 0x3c01002d com.salton123.sf.libbase:attr/bottomSheetStyle: flags=0x00000000
+      spec resource 0x3c01002e com.salton123.sf.libbase:attr/textColorError: flags=0x00000000
+      spec resource 0x3c01002f com.salton123.sf.libbase:attr/rippleColor: flags=0x00000000
+      spec resource 0x3c010030 com.salton123.sf.libbase:attr/fabSize: flags=0x00000000
+      spec resource 0x3c010031 com.salton123.sf.libbase:attr/pressedTranslationZ: flags=0x00000000
+      spec resource 0x3c010032 com.salton123.sf.libbase:attr/borderWidth: flags=0x00000000
+      spec resource 0x3c010033 com.salton123.sf.libbase:attr/useCompatPadding: flags=0x00000000
+      spec resource 0x3c010034 com.salton123.sf.libbase:attr/behavior_autoHide: flags=0x00000000
+      spec resource 0x3c010035 com.salton123.sf.libbase:attr/foregroundInsidePadding: flags=0x00000000
+      spec resource 0x3c010036 com.salton123.sf.libbase:attr/menu: flags=0x00000000
+      spec resource 0x3c010037 com.salton123.sf.libbase:attr/itemIconTint: flags=0x00000000
+      spec resource 0x3c010038 com.salton123.sf.libbase:attr/itemTextColor: flags=0x00000000
+      spec resource 0x3c010039 com.salton123.sf.libbase:attr/itemBackground: flags=0x00000000
+      spec resource 0x3c01003a com.salton123.sf.libbase:attr/itemTextAppearance: flags=0x00000000
+      spec resource 0x3c01003b com.salton123.sf.libbase:attr/headerLayout: flags=0x00000000
+      spec resource 0x3c01003c com.salton123.sf.libbase:attr/layoutManager: flags=0x00000000
+      spec resource 0x3c01003d com.salton123.sf.libbase:attr/spanCount: flags=0x00000000
+      spec resource 0x3c01003e com.salton123.sf.libbase:attr/reverseLayout: flags=0x00000000
+      spec resource 0x3c01003f com.salton123.sf.libbase:attr/stackFromEnd: flags=0x00000000
+      spec resource 0x3c010040 com.salton123.sf.libbase:attr/fastScrollEnabled: flags=0x00000000
+      spec resource 0x3c010041 com.salton123.sf.libbase:attr/fastScrollVerticalThumbDrawable: flags=0x00000000
+      spec resource 0x3c010042 com.salton123.sf.libbase:attr/fastScrollVerticalTrackDrawable: flags=0x00000000
+      spec resource 0x3c010043 com.salton123.sf.libbase:attr/fastScrollHorizontalThumbDrawable: flags=0x00000000
+      spec resource 0x3c010044 com.salton123.sf.libbase:attr/fastScrollHorizontalTrackDrawable: flags=0x00000000
+      spec resource 0x3c010045 com.salton123.sf.libbase:attr/insetForeground: flags=0x00000000
+      spec resource 0x3c010046 com.salton123.sf.libbase:attr/behavior_overlapTop: flags=0x00000000
+      spec resource 0x3c010047 com.salton123.sf.libbase:attr/maxActionInlineWidth: flags=0x00000000
+      spec resource 0x3c010048 com.salton123.sf.libbase:attr/tabIndicatorColor: flags=0x00000000
+      spec resource 0x3c010049 com.salton123.sf.libbase:attr/tabIndicatorHeight: flags=0x00000000
+      spec resource 0x3c01004a com.salton123.sf.libbase:attr/tabContentStart: flags=0x00000000
+      spec resource 0x3c01004b com.salton123.sf.libbase:attr/tabBackground: flags=0x00000000
+      spec resource 0x3c01004c com.salton123.sf.libbase:attr/tabMode: flags=0x00000000
+      spec resource 0x3c01004d com.salton123.sf.libbase:attr/tabGravity: flags=0x00000000
+      spec resource 0x3c01004e com.salton123.sf.libbase:attr/tabMinWidth: flags=0x00000000
+      spec resource 0x3c01004f com.salton123.sf.libbase:attr/tabMaxWidth: flags=0x00000000
+      spec resource 0x3c010050 com.salton123.sf.libbase:attr/tabTextAppearance: flags=0x00000000
+      spec resource 0x3c010051 com.salton123.sf.libbase:attr/tabTextColor: flags=0x00000000
+      spec resource 0x3c010052 com.salton123.sf.libbase:attr/tabSelectedTextColor: flags=0x00000000
+      spec resource 0x3c010053 com.salton123.sf.libbase:attr/tabPaddingStart: flags=0x00000000
+      spec resource 0x3c010054 com.salton123.sf.libbase:attr/tabPaddingTop: flags=0x00000000
+      spec resource 0x3c010055 com.salton123.sf.libbase:attr/tabPaddingEnd: flags=0x00000000
+      spec resource 0x3c010056 com.salton123.sf.libbase:attr/tabPaddingBottom: flags=0x00000000
+      spec resource 0x3c010057 com.salton123.sf.libbase:attr/tabPadding: flags=0x00000000
+      spec resource 0x3c010058 com.salton123.sf.libbase:attr/hintTextAppearance: flags=0x00000000
+      spec resource 0x3c010059 com.salton123.sf.libbase:attr/hintEnabled: flags=0x00000000
+      spec resource 0x3c01005a com.salton123.sf.libbase:attr/errorEnabled: flags=0x00000000
+      spec resource 0x3c01005b com.salton123.sf.libbase:attr/errorTextAppearance: flags=0x00000000
+      spec resource 0x3c01005c com.salton123.sf.libbase:attr/counterEnabled: flags=0x00000000
+      spec resource 0x3c01005d com.salton123.sf.libbase:attr/counterMaxLength: flags=0x00000000
+      spec resource 0x3c01005e com.salton123.sf.libbase:attr/counterTextAppearance: flags=0x00000000
+      spec resource 0x3c01005f com.salton123.sf.libbase:attr/counterOverflowTextAppearance: flags=0x00000000
+      spec resource 0x3c010060 com.salton123.sf.libbase:attr/hintAnimationEnabled: flags=0x00000000
+      spec resource 0x3c010061 com.salton123.sf.libbase:attr/passwordToggleEnabled: flags=0x00000000
+      spec resource 0x3c010062 com.salton123.sf.libbase:attr/passwordToggleDrawable: flags=0x00000000
+      spec resource 0x3c010063 com.salton123.sf.libbase:attr/passwordToggleContentDescription: flags=0x00000000
+      spec resource 0x3c010064 com.salton123.sf.libbase:attr/passwordToggleTint: flags=0x00000000
+      spec resource 0x3c010065 com.salton123.sf.libbase:attr/passwordToggleTintMode: flags=0x00000000
+      config (default):
+        resource 0x3c010000 com.salton123.sf.libbase:attr/expanded: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010001 com.salton123.sf.libbase:attr/state_collapsed: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010002 com.salton123.sf.libbase:attr/state_collapsible: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010003 com.salton123.sf.libbase:attr/layout_scrollFlags: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=6
+          #0 (Key=0x01000000): (color) #00020000
+          #1 (Key=0x3c0c0009): (color) #00000004
+          #2 (Key=0x3c0c000a): (color) #00000008
+          #3 (Key=0x3c0c000b): (color) #00000002
+          #4 (Key=0x3c0c000c): (color) #00000001
+          #5 (Key=0x3c0c000d): (color) #00000010
+        resource 0x3c010004 com.salton123.sf.libbase:attr/layout_scrollInterpolator: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010005 com.salton123.sf.libbase:attr/behavior_peekHeight: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=2
+          #0 (Key=0x01000000): (color) #00010040
+          #1 (Key=0x3c0c000e): (color) #ffffffff
+        resource 0x3c010006 com.salton123.sf.libbase:attr/behavior_hideable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010007 com.salton123.sf.libbase:attr/behavior_skipCollapsed: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010008 com.salton123.sf.libbase:attr/cardBackgroundColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010009 com.salton123.sf.libbase:attr/cardCornerRadius: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01000a com.salton123.sf.libbase:attr/cardElevation: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01000b com.salton123.sf.libbase:attr/cardMaxElevation: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01000c com.salton123.sf.libbase:attr/cardUseCompatPadding: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01000d com.salton123.sf.libbase:attr/cardPreventCornerOverlap: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01000e com.salton123.sf.libbase:attr/contentPadding: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01000f com.salton123.sf.libbase:attr/contentPaddingLeft: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010010 com.salton123.sf.libbase:attr/contentPaddingRight: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010011 com.salton123.sf.libbase:attr/contentPaddingTop: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010012 com.salton123.sf.libbase:attr/contentPaddingBottom: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010013 com.salton123.sf.libbase:attr/expandedTitleMargin: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010014 com.salton123.sf.libbase:attr/expandedTitleMarginStart: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010015 com.salton123.sf.libbase:attr/expandedTitleMarginTop: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010016 com.salton123.sf.libbase:attr/expandedTitleMarginEnd: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010017 com.salton123.sf.libbase:attr/expandedTitleMarginBottom: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010018 com.salton123.sf.libbase:attr/expandedTitleTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010019 com.salton123.sf.libbase:attr/collapsedTitleTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01001a com.salton123.sf.libbase:attr/contentScrim: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c01001b com.salton123.sf.libbase:attr/statusBarScrim: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c01001c com.salton123.sf.libbase:attr/toolbarId: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01001d com.salton123.sf.libbase:attr/scrimVisibleHeightTrigger: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01001e com.salton123.sf.libbase:attr/scrimAnimationDuration: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000004
+        resource 0x3c01001f com.salton123.sf.libbase:attr/collapsedTitleGravity: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=11
+          #0 (Key=0x01000000): (color) #00020000
+          #1 (Key=0x7f0b002a): (color) #00000050
+          #2 (Key=0x3c0c000f): (color) #00000011
+          #3 (Key=0x3c0c0010): (color) #00000001
+          #4 (Key=0x3c0c0011): (color) #00000010
+          #5 (Key=0x7f0b0023): (color) #00800005
+          #6 (Key=0x3c0c0012): (color) #00000070
+          #7 (Key=0x3c0c0013): (color) #00000003
+          #8 (Key=0x3c0c0014): (color) #00000005
+          #9 (Key=0x3c0c0015): (color) #00800003
+          #10 (Key=0x7f0b002b): (color) #00000030
+        resource 0x3c010020 com.salton123.sf.libbase:attr/expandedTitleGravity: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=11
+          #0 (Key=0x01000000): (color) #00020000
+          #1 (Key=0x7f0b002a): (color) #00000050
+          #2 (Key=0x3c0c000f): (color) #00000011
+          #3 (Key=0x3c0c0010): (color) #00000001
+          #4 (Key=0x3c0c0011): (color) #00000010
+          #5 (Key=0x7f0b0023): (color) #00800005
+          #6 (Key=0x3c0c0012): (color) #00000070
+          #7 (Key=0x3c0c0013): (color) #00000003
+          #8 (Key=0x3c0c0014): (color) #00000005
+          #9 (Key=0x3c0c0015): (color) #00800003
+          #10 (Key=0x7f0b002b): (color) #00000030
+        resource 0x3c010021 com.salton123.sf.libbase:attr/titleEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010022 com.salton123.sf.libbase:attr/layout_collapseMode: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=4
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x7f0b0011): (color) #00000000
+          #2 (Key=0x3c0c0016): (color) #00000002
+          #3 (Key=0x3c0c0017): (color) #00000001
+        resource 0x3c010023 com.salton123.sf.libbase:attr/layout_collapseParallaxMultiplier: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000020
+        resource 0x3c010024 com.salton123.sf.libbase:attr/keylines: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010025 com.salton123.sf.libbase:attr/statusBarBackground: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010026 com.salton123.sf.libbase:attr/layout_behavior: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000002
+        resource 0x3c010027 com.salton123.sf.libbase:attr/layout_anchor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010028 com.salton123.sf.libbase:attr/layout_keyline: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000004
+        resource 0x3c010029 com.salton123.sf.libbase:attr/layout_anchorGravity: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=15
+          #0 (Key=0x01000000): (color) #00020000
+          #1 (Key=0x7f0b002a): (color) #00000050
+          #2 (Key=0x3c0c000f): (color) #00000011
+          #3 (Key=0x3c0c0010): (color) #00000001
+          #4 (Key=0x3c0c0011): (color) #00000010
+          #5 (Key=0x7f0b0023): (color) #00800005
+          #6 (Key=0x3c0c0012): (color) #00000070
+          #7 (Key=0x3c0c0013): (color) #00000003
+          #8 (Key=0x3c0c0014): (color) #00000005
+          #9 (Key=0x3c0c0015): (color) #00800003
+          #10 (Key=0x7f0b002b): (color) #00000030
+          #11 (Key=0x3c0c0018): (color) #00000008
+          #12 (Key=0x3c0c0019): (color) #00000080
+          #13 (Key=0x3c0c001a): (color) #00000077
+          #14 (Key=0x3c0c001b): (color) #00000007
+        resource 0x3c01002a com.salton123.sf.libbase:attr/layout_insetEdge: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=8
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x7f0b0011): (color) #00000000
+          #2 (Key=0x7f0b002a): (color) #00000050
+          #3 (Key=0x7f0b0023): (color) #00800005
+          #4 (Key=0x3c0c0013): (color) #00000003
+          #5 (Key=0x3c0c0014): (color) #00000003
+          #6 (Key=0x3c0c0015): (color) #00800003
+          #7 (Key=0x7f0b002b): (color) #00000030
+        resource 0x3c01002b com.salton123.sf.libbase:attr/layout_dodgeInsetEdges: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=9
+          #0 (Key=0x01000000): (color) #00020000
+          #1 (Key=0x7f0b0011): (color) #00000000
+          #2 (Key=0x7f0b002a): (color) #00000050
+          #3 (Key=0x7f0b0023): (color) #00800005
+          #4 (Key=0x3c0c0013): (color) #00000003
+          #5 (Key=0x3c0c0014): (color) #00000003
+          #6 (Key=0x3c0c0015): (color) #00800003
+          #7 (Key=0x7f0b002b): (color) #00000030
+          #8 (Key=0x7f0b000e): (color) #00000077
+        resource 0x3c01002c com.salton123.sf.libbase:attr/bottomSheetDialogTheme: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01002d com.salton123.sf.libbase:attr/bottomSheetStyle: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01002e com.salton123.sf.libbase:attr/textColorError: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c01002f com.salton123.sf.libbase:attr/rippleColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010030 com.salton123.sf.libbase:attr/fabSize: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=4
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x7f0b0013): (color) #00000000
+          #2 (Key=0x3c0c000e): (color) #ffffffff
+          #3 (Key=0x3c0c001c): (color) #00000001
+        resource 0x3c010031 com.salton123.sf.libbase:attr/pressedTranslationZ: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010032 com.salton123.sf.libbase:attr/borderWidth: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010033 com.salton123.sf.libbase:attr/useCompatPadding: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010034 com.salton123.sf.libbase:attr/behavior_autoHide: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010035 com.salton123.sf.libbase:attr/foregroundInsidePadding: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010036 com.salton123.sf.libbase:attr/menu: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010037 com.salton123.sf.libbase:attr/itemIconTint: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010038 com.salton123.sf.libbase:attr/itemTextColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010039 com.salton123.sf.libbase:attr/itemBackground: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01003a com.salton123.sf.libbase:attr/itemTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01003b com.salton123.sf.libbase:attr/headerLayout: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01003c com.salton123.sf.libbase:attr/layoutManager: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000002
+        resource 0x3c01003d com.salton123.sf.libbase:attr/spanCount: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000004
+        resource 0x3c01003e com.salton123.sf.libbase:attr/reverseLayout: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01003f com.salton123.sf.libbase:attr/stackFromEnd: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010040 com.salton123.sf.libbase:attr/fastScrollEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010041 com.salton123.sf.libbase:attr/fastScrollVerticalThumbDrawable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010042 com.salton123.sf.libbase:attr/fastScrollVerticalTrackDrawable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010043 com.salton123.sf.libbase:attr/fastScrollHorizontalThumbDrawable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010044 com.salton123.sf.libbase:attr/fastScrollHorizontalTrackDrawable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010045 com.salton123.sf.libbase:attr/insetForeground: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000011
+        resource 0x3c010046 com.salton123.sf.libbase:attr/behavior_overlapTop: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010047 com.salton123.sf.libbase:attr/maxActionInlineWidth: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010048 com.salton123.sf.libbase:attr/tabIndicatorColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010049 com.salton123.sf.libbase:attr/tabIndicatorHeight: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01004a com.salton123.sf.libbase:attr/tabContentStart: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01004b com.salton123.sf.libbase:attr/tabBackground: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01004c com.salton123.sf.libbase:attr/tabMode: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x3c0c001d): (color) #00000001
+          #2 (Key=0x3c0c001e): (color) #00000000
+        resource 0x3c01004d com.salton123.sf.libbase:attr/tabGravity: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x3c0c000f): (color) #00000001
+          #2 (Key=0x3c0c001a): (color) #00000000
+        resource 0x3c01004e com.salton123.sf.libbase:attr/tabMinWidth: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c01004f com.salton123.sf.libbase:attr/tabMaxWidth: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010050 com.salton123.sf.libbase:attr/tabTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010051 com.salton123.sf.libbase:attr/tabTextColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010052 com.salton123.sf.libbase:attr/tabSelectedTextColor: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010053 com.salton123.sf.libbase:attr/tabPaddingStart: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010054 com.salton123.sf.libbase:attr/tabPaddingTop: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010055 com.salton123.sf.libbase:attr/tabPaddingEnd: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010056 com.salton123.sf.libbase:attr/tabPaddingBottom: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010057 com.salton123.sf.libbase:attr/tabPadding: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000040
+        resource 0x3c010058 com.salton123.sf.libbase:attr/hintTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010059 com.salton123.sf.libbase:attr/hintEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01005a com.salton123.sf.libbase:attr/errorEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01005b com.salton123.sf.libbase:attr/errorTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01005c com.salton123.sf.libbase:attr/counterEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c01005d com.salton123.sf.libbase:attr/counterMaxLength: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000004
+        resource 0x3c01005e com.salton123.sf.libbase:attr/counterTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c01005f com.salton123.sf.libbase:attr/counterOverflowTextAppearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010060 com.salton123.sf.libbase:attr/hintAnimationEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010061 com.salton123.sf.libbase:attr/passwordToggleEnabled: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000008
+        resource 0x3c010062 com.salton123.sf.libbase:attr/passwordToggleDrawable: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000001
+        resource 0x3c010063 com.salton123.sf.libbase:attr/passwordToggleContentDescription: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000002
+        resource 0x3c010064 com.salton123.sf.libbase:attr/passwordToggleTint: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01000000): (color) #00000010
+        resource 0x3c010065 com.salton123.sf.libbase:attr/passwordToggleTintMode: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=6
+          #0 (Key=0x01000000): (color) #00010000
+          #1 (Key=0x7f0b001c): (color) #0000000e
+          #2 (Key=0x7f0b001d): (color) #0000000f
+          #3 (Key=0x7f0b001e): (color) #00000009
+          #4 (Key=0x7f0b001f): (color) #00000005
+          #5 (Key=0x7f0b0020): (color) #00000003
+    type 1 configCount=8 entryCount=44
+      spec resource 0x3c020000 com.salton123.sf.libbase:drawable/actionbar_shadow_up: flags=0x00000000
+      spec resource 0x3c020001 com.salton123.sf.libbase:drawable/avd_hide_password: flags=0x00000000
+      spec resource 0x3c020002 com.salton123.sf.libbase:drawable/avd_show_password: flags=0x00000000
+      spec resource 0x3c020003 com.salton123.sf.libbase:drawable/bg_chat_right: flags=0x00000000
+      spec resource 0x3c020004 com.salton123.sf.libbase:drawable/bg_fifth: flags=0x00000000
+      spec resource 0x3c020005 com.salton123.sf.libbase:drawable/bg_first: flags=0x00000000
+      spec resource 0x3c020006 com.salton123.sf.libbase:drawable/bg_fourth: flags=0x00000000
+      spec resource 0x3c020007 com.salton123.sf.libbase:drawable/bg_msg_bubble: flags=0x00000000
+      spec resource 0x3c020008 com.salton123.sf.libbase:drawable/bg_second: flags=0x00000000
+      spec resource 0x3c020009 com.salton123.sf.libbase:drawable/bg_third: flags=0x00000000
+      spec resource 0x3c02000a com.salton123.sf.libbase:drawable/design_bottom_navigation_item_background: flags=0x00000400
+      spec resource 0x3c02000b com.salton123.sf.libbase:drawable/design_fab_background: flags=0x00000000
+      spec resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: flags=0x00000500
+      spec resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: flags=0x00000500
+      spec resource 0x3c02000e com.salton123.sf.libbase:drawable/design_password_eye: flags=0x00000400
+      spec resource 0x3c02000f com.salton123.sf.libbase:drawable/design_snackbar_background: flags=0x00000000
+      spec resource 0x3c020010 com.salton123.sf.libbase:drawable/fragmentation_help: flags=0x00000000
+      spec resource 0x3c020011 com.salton123.sf.libbase:drawable/fragmentation_ic_expandable: flags=0x00000000
+      spec resource 0x3c020012 com.salton123.sf.libbase:drawable/fragmentation_ic_right: flags=0x00000000
+      spec resource 0x3c020013 com.salton123.sf.libbase:drawable/fragmentation_ic_stack: flags=0x00000000
+      spec resource 0x3c020014 com.salton123.sf.libbase:drawable/ic_account_circle_white_24dp: flags=0x00000100
+      spec resource 0x3c020015 com.salton123.sf.libbase:drawable/ic_account_circle_white_48dp: flags=0x00000100
+      spec resource 0x3c020016 com.salton123.sf.libbase:drawable/ic_arrow_back_white_24dp: flags=0x00000100
+      spec resource 0x3c020017 com.salton123.sf.libbase:drawable/ic_arrow_forward_white_24dp: flags=0x00000100
+      spec resource 0x3c020018 com.salton123.sf.libbase:drawable/ic_avatar: flags=0x00000000
+      spec resource 0x3c020019 com.salton123.sf.libbase:drawable/ic_discover_white_24dp: flags=0x00000100
+      spec resource 0x3c02001a com.salton123.sf.libbase:drawable/ic_home_white_24dp: flags=0x00000100
+      spec resource 0x3c02001b com.salton123.sf.libbase:drawable/ic_launcher: flags=0x00000100
+      spec resource 0x3c02001c com.salton123.sf.libbase:drawable/ic_menu_white_24dp: flags=0x00000100
+      spec resource 0x3c02001d com.salton123.sf.libbase:drawable/ic_message_white_24dp: flags=0x00000100
+      spec resource 0x3c02001e com.salton123.sf.libbase:drawable/ic_settings_grey_500_24dp: flags=0x00000100
+      spec resource 0x3c02001f com.salton123.sf.libbase:drawable/ic_touch_app_white_24dp: flags=0x00000100
+      spec resource 0x3c020020 com.salton123.sf.libbase:drawable/logo: flags=0x00000000
+      spec resource 0x3c020021 com.salton123.sf.libbase:drawable/navigation_empty_icon: flags=0x00000000
+      spec resource 0x3c020022 com.salton123.sf.libbase:drawable/shadow_bottom: flags=0x00000000
+      spec resource 0x3c020023 com.salton123.sf.libbase:drawable/shadow_left: flags=0x00000000
+      spec resource 0x3c020024 com.salton123.sf.libbase:drawable/shadow_right: flags=0x00000000
+      spec resource 0x3c020025 com.salton123.sf.libbase:drawable/side_nav_bar: flags=0x00000000
+      spec resource 0x3c020026 com.salton123.sf.libbase:drawable/avd_hide_password_1: flags=0x00000000
+      spec resource 0x3c020027 com.salton123.sf.libbase:drawable/avd_hide_password_2: flags=0x00000000
+      spec resource 0x3c020028 com.salton123.sf.libbase:drawable/avd_hide_password_3: flags=0x00000000
+      spec resource 0x3c020029 com.salton123.sf.libbase:drawable/avd_show_password_1: flags=0x00000000
+      spec resource 0x3c02002a com.salton123.sf.libbase:drawable/avd_show_password_2: flags=0x00000000
+      spec resource 0x3c02002b com.salton123.sf.libbase:drawable/avd_show_password_3: flags=0x00000000
+      config anydpi-v21:
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000000 (s=0x0008 r=0x00)
+          (string8) "res/drawable-anydpi-v21/design_ic_visibility.xml"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x00000001 (s=0x0008 r=0x00)
+          (string8) "res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+      config (default):
+        resource 0x3c020007 com.salton123.sf.libbase:drawable/bg_msg_bubble: t=0x03 d=0x00000002 (s=0x0008 r=0x00)
+          (string8) "res/drawable/bg_msg_bubble.xml"
+        resource 0x3c02000a com.salton123.sf.libbase:drawable/design_bottom_navigation_item_background: t=0x03 d=0x00000003 (s=0x0008 r=0x00)
+          (string8) "res/drawable/design_bottom_navigation_item_background.xml"
+        resource 0x3c02000b com.salton123.sf.libbase:drawable/design_fab_background: t=0x03 d=0x00000004 (s=0x0008 r=0x00)
+          (string8) "res/drawable/design_fab_background.xml"
+        resource 0x3c02000e com.salton123.sf.libbase:drawable/design_password_eye: t=0x03 d=0x00000005 (s=0x0008 r=0x00)
+          (string8) "res/drawable/design_password_eye.xml"
+        resource 0x3c02000f com.salton123.sf.libbase:drawable/design_snackbar_background: t=0x03 d=0x00000006 (s=0x0008 r=0x00)
+          (string8) "res/drawable/design_snackbar_background.xml"
+        resource 0x3c020021 com.salton123.sf.libbase:drawable/navigation_empty_icon: t=0x03 d=0x00000007 (s=0x0008 r=0x00)
+          (string8) "res/drawable/navigation_empty_icon.xml"
+        resource 0x3c020025 com.salton123.sf.libbase:drawable/side_nav_bar: t=0x03 d=0x00000008 (s=0x0008 r=0x00)
+          (string8) "res/drawable/side_nav_bar.xml"
+      config v21:
+        resource 0x3c020001 com.salton123.sf.libbase:drawable/avd_hide_password: t=0x03 d=0x00000009 (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_hide_password.xml"
+        resource 0x3c020002 com.salton123.sf.libbase:drawable/avd_show_password: t=0x03 d=0x0000000a (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_show_password.xml"
+        resource 0x3c02000a com.salton123.sf.libbase:drawable/design_bottom_navigation_item_background: t=0x03 d=0x0000000b (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/design_bottom_navigation_item_background.xml"
+        resource 0x3c02000e com.salton123.sf.libbase:drawable/design_password_eye: t=0x03 d=0x0000000c (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/design_password_eye.xml"
+        resource 0x3c020026 com.salton123.sf.libbase:drawable/avd_hide_password_1: t=0x03 d=0x0000000d (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_hide_password_1.xml"
+        resource 0x3c020027 com.salton123.sf.libbase:drawable/avd_hide_password_2: t=0x03 d=0x0000000e (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_hide_password_2.xml"
+        resource 0x3c020028 com.salton123.sf.libbase:drawable/avd_hide_password_3: t=0x03 d=0x0000000f (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_hide_password_3.xml"
+        resource 0x3c020029 com.salton123.sf.libbase:drawable/avd_show_password_1: t=0x03 d=0x00000010 (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_show_password_1.xml"
+        resource 0x3c02002a com.salton123.sf.libbase:drawable/avd_show_password_2: t=0x03 d=0x00000011 (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_show_password_2.xml"
+        resource 0x3c02002b com.salton123.sf.libbase:drawable/avd_show_password_3: t=0x03 d=0x00000012 (s=0x0008 r=0x00)
+          (string8) "res/drawable-v21/avd_show_password_3.xml"
+      config mdpi-v4:
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000013 (s=0x0008 r=0x00)
+          (string8) "res/drawable-mdpi-v4/design_ic_visibility.png"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x00000014 (s=0x0008 r=0x00)
+          (string8) "res/drawable-mdpi-v4/design_ic_visibility_off.png"
+      config hdpi-v4:
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000015 (s=0x0008 r=0x00)
+          (string8) "res/drawable-hdpi-v4/design_ic_visibility.png"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x00000016 (s=0x0008 r=0x00)
+          (string8) "res/drawable-hdpi-v4/design_ic_visibility_off.png"
+        resource 0x3c02001b com.salton123.sf.libbase:drawable/ic_launcher: t=0x03 d=0x00000017 (s=0x0008 r=0x00)
+          (string8) "res/drawable-hdpi-v4/ic_launcher.png"
+      config xhdpi-v4:
+        resource 0x3c020003 com.salton123.sf.libbase:drawable/bg_chat_right: t=0x03 d=0x00000018 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/bg_chat_right.9.png"
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000019 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/design_ic_visibility.png"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x0000001a (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+        resource 0x3c020014 com.salton123.sf.libbase:drawable/ic_account_circle_white_24dp: t=0x03 d=0x0000001b (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_account_circle_white_24dp.png"
+        resource 0x3c020015 com.salton123.sf.libbase:drawable/ic_account_circle_white_48dp: t=0x03 d=0x0000001c (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_account_circle_white_48dp.png"
+        resource 0x3c020016 com.salton123.sf.libbase:drawable/ic_arrow_back_white_24dp: t=0x03 d=0x0000001d (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_arrow_back_white_24dp.png"
+        resource 0x3c020017 com.salton123.sf.libbase:drawable/ic_arrow_forward_white_24dp: t=0x03 d=0x0000001e (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_arrow_forward_white_24dp.png"
+        resource 0x3c020019 com.salton123.sf.libbase:drawable/ic_discover_white_24dp: t=0x03 d=0x0000001f (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_discover_white_24dp.png"
+        resource 0x3c02001a com.salton123.sf.libbase:drawable/ic_home_white_24dp: t=0x03 d=0x00000020 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_home_white_24dp.png"
+        resource 0x3c02001b com.salton123.sf.libbase:drawable/ic_launcher: t=0x03 d=0x00000021 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_launcher.png"
+        resource 0x3c02001c com.salton123.sf.libbase:drawable/ic_menu_white_24dp: t=0x03 d=0x00000022 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_menu_white_24dp.png"
+        resource 0x3c02001d com.salton123.sf.libbase:drawable/ic_message_white_24dp: t=0x03 d=0x00000023 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_message_white_24dp.png"
+        resource 0x3c02001e com.salton123.sf.libbase:drawable/ic_settings_grey_500_24dp: t=0x03 d=0x00000024 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_settings_grey_500_24dp.png"
+        resource 0x3c02001f com.salton123.sf.libbase:drawable/ic_touch_app_white_24dp: t=0x03 d=0x00000025 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/ic_touch_app_white_24dp.png"
+        resource 0x3c020020 com.salton123.sf.libbase:drawable/logo: t=0x03 d=0x00000026 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/logo.png"
+        resource 0x3c020022 com.salton123.sf.libbase:drawable/shadow_bottom: t=0x03 d=0x00000027 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/shadow_bottom.png"
+        resource 0x3c020023 com.salton123.sf.libbase:drawable/shadow_left: t=0x03 d=0x00000028 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/shadow_left.png"
+        resource 0x3c020024 com.salton123.sf.libbase:drawable/shadow_right: t=0x03 d=0x00000029 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xhdpi-v4/shadow_right.png"
+      config xxhdpi-v4:
+        resource 0x3c020000 com.salton123.sf.libbase:drawable/actionbar_shadow_up: t=0x03 d=0x0000002a (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/actionbar_shadow_up.9.png"
+        resource 0x3c020004 com.salton123.sf.libbase:drawable/bg_fifth: t=0x03 d=0x0000002b (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/bg_fifth.png"
+        resource 0x3c020005 com.salton123.sf.libbase:drawable/bg_first: t=0x03 d=0x0000002c (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/bg_first.png"
+        resource 0x3c020006 com.salton123.sf.libbase:drawable/bg_fourth: t=0x03 d=0x0000002d (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/bg_fourth.png"
+        resource 0x3c020008 com.salton123.sf.libbase:drawable/bg_second: t=0x03 d=0x0000002e (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/bg_second.png"
+        resource 0x3c020009 com.salton123.sf.libbase:drawable/bg_third: t=0x03 d=0x0000002f (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/bg_third.png"
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000030 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/design_ic_visibility.png"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x00000031 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+        resource 0x3c020010 com.salton123.sf.libbase:drawable/fragmentation_help: t=0x03 d=0x00000032 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/fragmentation_help.png"
+        resource 0x3c020011 com.salton123.sf.libbase:drawable/fragmentation_ic_expandable: t=0x03 d=0x00000033 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/fragmentation_ic_expandable.png"
+        resource 0x3c020012 com.salton123.sf.libbase:drawable/fragmentation_ic_right: t=0x03 d=0x00000034 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/fragmentation_ic_right.png"
+        resource 0x3c020013 com.salton123.sf.libbase:drawable/fragmentation_ic_stack: t=0x03 d=0x00000035 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/fragmentation_ic_stack.png"
+        resource 0x3c020014 com.salton123.sf.libbase:drawable/ic_account_circle_white_24dp: t=0x03 d=0x00000036 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_account_circle_white_24dp.png"
+        resource 0x3c020015 com.salton123.sf.libbase:drawable/ic_account_circle_white_48dp: t=0x03 d=0x00000037 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_account_circle_white_48dp.png"
+        resource 0x3c020016 com.salton123.sf.libbase:drawable/ic_arrow_back_white_24dp: t=0x03 d=0x00000038 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_arrow_back_white_24dp.png"
+        resource 0x3c020017 com.salton123.sf.libbase:drawable/ic_arrow_forward_white_24dp: t=0x03 d=0x00000039 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_arrow_forward_white_24dp.png"
+        resource 0x3c020018 com.salton123.sf.libbase:drawable/ic_avatar: t=0x03 d=0x0000003a (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_avatar.png"
+        resource 0x3c020019 com.salton123.sf.libbase:drawable/ic_discover_white_24dp: t=0x03 d=0x0000003b (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_discover_white_24dp.png"
+        resource 0x3c02001a com.salton123.sf.libbase:drawable/ic_home_white_24dp: t=0x03 d=0x0000003c (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_home_white_24dp.png"
+        resource 0x3c02001b com.salton123.sf.libbase:drawable/ic_launcher: t=0x03 d=0x0000003d (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_launcher.png"
+        resource 0x3c02001c com.salton123.sf.libbase:drawable/ic_menu_white_24dp: t=0x03 d=0x0000003e (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_menu_white_24dp.png"
+        resource 0x3c02001d com.salton123.sf.libbase:drawable/ic_message_white_24dp: t=0x03 d=0x0000003f (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_message_white_24dp.png"
+        resource 0x3c02001e com.salton123.sf.libbase:drawable/ic_settings_grey_500_24dp: t=0x03 d=0x00000040 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_settings_grey_500_24dp.png"
+        resource 0x3c02001f com.salton123.sf.libbase:drawable/ic_touch_app_white_24dp: t=0x03 d=0x00000041 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxhdpi-v4/ic_touch_app_white_24dp.png"
+      config xxxhdpi-v4:
+        resource 0x3c02000c com.salton123.sf.libbase:drawable/design_ic_visibility: t=0x03 d=0x00000042 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxxhdpi-v4/design_ic_visibility.png"
+        resource 0x3c02000d com.salton123.sf.libbase:drawable/design_ic_visibility_off: t=0x03 d=0x00000043 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
+        resource 0x3c02001b com.salton123.sf.libbase:drawable/ic_launcher: t=0x03 d=0x00000044 (s=0x0008 r=0x00)
+          (string8) "res/drawable-xxxhdpi-v4/ic_launcher.png"
+    type 2 configCount=3 entryCount=58
+      spec resource 0x3c030000 com.salton123.sf.libbase:layout/activity_enter: flags=0x00000000
+      spec resource 0x3c030001 com.salton123.sf.libbase:layout/activity_swipe_back: flags=0x00000000
+      spec resource 0x3c030002 com.salton123.sf.libbase:layout/content_detail: flags=0x00000400
+      spec resource 0x3c030003 com.salton123.sf.libbase:layout/design_bottom_navigation_item: flags=0x00000000
+      spec resource 0x3c030004 com.salton123.sf.libbase:layout/design_bottom_sheet_dialog: flags=0x00000000
+      spec resource 0x3c030005 com.salton123.sf.libbase:layout/design_layout_snackbar: flags=0x00002400
+      spec resource 0x3c030006 com.salton123.sf.libbase:layout/design_layout_snackbar_include: flags=0x00000000
+      spec resource 0x3c030007 com.salton123.sf.libbase:layout/design_layout_tab_icon: flags=0x00000000
+      spec resource 0x3c030008 com.salton123.sf.libbase:layout/design_layout_tab_text: flags=0x00000000
+      spec resource 0x3c030009 com.salton123.sf.libbase:layout/design_menu_item_action_area: flags=0x00000000
+      spec resource 0x3c03000a com.salton123.sf.libbase:layout/design_navigation_item: flags=0x00000000
+      spec resource 0x3c03000b com.salton123.sf.libbase:layout/design_navigation_item_header: flags=0x00000000
+      spec resource 0x3c03000c com.salton123.sf.libbase:layout/design_navigation_item_separator: flags=0x00000000
+      spec resource 0x3c03000d com.salton123.sf.libbase:layout/design_navigation_item_subheader: flags=0x00000000
+      spec resource 0x3c03000e com.salton123.sf.libbase:layout/design_navigation_menu: flags=0x00000000
+      spec resource 0x3c03000f com.salton123.sf.libbase:layout/design_navigation_menu_item: flags=0x00000000
+      spec resource 0x3c030010 com.salton123.sf.libbase:layout/design_text_input_password_icon: flags=0x00000000
+      spec resource 0x3c030011 com.salton123.sf.libbase:layout/fragment_content: flags=0x00000000
+      spec resource 0x3c030012 com.salton123.sf.libbase:layout/fragment_cycle: flags=0x00000000
+      spec resource 0x3c030013 com.salton123.sf.libbase:layout/fragment_detail: flags=0x00000000
+      spec resource 0x3c030014 com.salton123.sf.libbase:layout/fragment_discover: flags=0x00000000
+      spec resource 0x3c030015 com.salton123.sf.libbase:layout/fragment_home: flags=0x00000000
+      spec resource 0x3c030016 com.salton123.sf.libbase:layout/fragment_list_menu: flags=0x00000000
+      spec resource 0x3c030017 com.salton123.sf.libbase:layout/fragment_login: flags=0x00000000
+      spec resource 0x3c030018 com.salton123.sf.libbase:layout/fragment_modify_detail: flags=0x00000000
+      spec resource 0x3c030019 com.salton123.sf.libbase:layout/fragment_pager: flags=0x00000000
+      spec resource 0x3c03001a com.salton123.sf.libbase:layout/fragment_register: flags=0x00000000
+      spec resource 0x3c03001b com.salton123.sf.libbase:layout/fragment_shop: flags=0x00000000
+      spec resource 0x3c03001c com.salton123.sf.libbase:layout/fragment_swipe_back_first: flags=0x00000000
+      spec resource 0x3c03001d com.salton123.sf.libbase:layout/fragment_swipe_back_recy: flags=0x00000000
+      spec resource 0x3c03001e com.salton123.sf.libbase:layout/item_home: flags=0x00000000
+      spec resource 0x3c03001f com.salton123.sf.libbase:layout/item_menu: flags=0x00000000
+      spec resource 0x3c030020 com.salton123.sf.libbase:layout/item_pager: flags=0x00000000
+      spec resource 0x3c030021 com.salton123.sf.libbase:layout/item_wechat_chat: flags=0x00000000
+      spec resource 0x3c030022 com.salton123.sf.libbase:layout/item_wechat_msg: flags=0x00000000
+      spec resource 0x3c030023 com.salton123.sf.libbase:layout/item_zhihu_home_first: flags=0x00000000
+      spec resource 0x3c030024 com.salton123.sf.libbase:layout/nav_header_main: flags=0x00000000
+      spec resource 0x3c030025 com.salton123.sf.libbase:layout/toolbar: flags=0x00000000
+      spec resource 0x3c030026 com.salton123.sf.libbase:layout/wechat_activity_main: flags=0x00000000
+      spec resource 0x3c030027 com.salton123.sf.libbase:layout/wechat_fragment_main: flags=0x00000000
+      spec resource 0x3c030028 com.salton123.sf.libbase:layout/wechat_fragment_new_feature: flags=0x00000000
+      spec resource 0x3c030029 com.salton123.sf.libbase:layout/wechat_fragment_tab_first: flags=0x00000000
+      spec resource 0x3c03002a com.salton123.sf.libbase:layout/wechat_fragment_tab_first_msg: flags=0x00000000
+      spec resource 0x3c03002b com.salton123.sf.libbase:layout/wechat_fragment_tab_second: flags=0x00000000
+      spec resource 0x3c03002c com.salton123.sf.libbase:layout/wechat_fragment_tab_second_pager_first: flags=0x00000000
+      spec resource 0x3c03002d com.salton123.sf.libbase:layout/wechat_fragment_tab_second_pager_other: flags=0x00000000
+      spec resource 0x3c03002e com.salton123.sf.libbase:layout/wechat_fragment_tab_third: flags=0x00000000
+      spec resource 0x3c03002f com.salton123.sf.libbase:layout/wechat_fragment_view: flags=0x00000000
+      spec resource 0x3c030030 com.salton123.sf.libbase:layout/zhihu_activity_main: flags=0x00000000
+      spec resource 0x3c030031 com.salton123.sf.libbase:layout/zhihu_fragment_fourth: flags=0x00000000
+      spec resource 0x3c030032 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_avatar: flags=0x00000000
+      spec resource 0x3c030033 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_me: flags=0x00000000
+      spec resource 0x3c030034 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_settings: flags=0x00000000
+      spec resource 0x3c030035 com.salton123.sf.libbase:layout/zhihu_fragment_second: flags=0x00000000
+      spec resource 0x3c030036 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager: flags=0x00000000
+      spec resource 0x3c030037 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager_first: flags=0x00000000
+      spec resource 0x3c030038 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager_other: flags=0x00000000
+      spec resource 0x3c030039 com.salton123.sf.libbase:layout/zhihu_fragment_third: flags=0x00000000
+      config (default):
+        resource 0x3c030000 com.salton123.sf.libbase:layout/activity_enter: t=0x03 d=0x00000045 (s=0x0008 r=0x00)
+          (string8) "res/layout/activity_enter.xml"
+        resource 0x3c030001 com.salton123.sf.libbase:layout/activity_swipe_back: t=0x03 d=0x00000046 (s=0x0008 r=0x00)
+          (string8) "res/layout/activity_swipe_back.xml"
+        resource 0x3c030002 com.salton123.sf.libbase:layout/content_detail: t=0x03 d=0x00000047 (s=0x0008 r=0x00)
+          (string8) "res/layout/content_detail.xml"
+        resource 0x3c030003 com.salton123.sf.libbase:layout/design_bottom_navigation_item: t=0x03 d=0x00000048 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_bottom_navigation_item.xml"
+        resource 0x3c030004 com.salton123.sf.libbase:layout/design_bottom_sheet_dialog: t=0x03 d=0x00000049 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_bottom_sheet_dialog.xml"
+        resource 0x3c030005 com.salton123.sf.libbase:layout/design_layout_snackbar: t=0x03 d=0x0000004a (s=0x0008 r=0x00)
+          (string8) "res/layout/design_layout_snackbar.xml"
+        resource 0x3c030006 com.salton123.sf.libbase:layout/design_layout_snackbar_include: t=0x03 d=0x0000004b (s=0x0008 r=0x00)
+          (string8) "res/layout/design_layout_snackbar_include.xml"
+        resource 0x3c030007 com.salton123.sf.libbase:layout/design_layout_tab_icon: t=0x03 d=0x0000004c (s=0x0008 r=0x00)
+          (string8) "res/layout/design_layout_tab_icon.xml"
+        resource 0x3c030008 com.salton123.sf.libbase:layout/design_layout_tab_text: t=0x03 d=0x0000004d (s=0x0008 r=0x00)
+          (string8) "res/layout/design_layout_tab_text.xml"
+        resource 0x3c030009 com.salton123.sf.libbase:layout/design_menu_item_action_area: t=0x03 d=0x0000004e (s=0x0008 r=0x00)
+          (string8) "res/layout/design_menu_item_action_area.xml"
+        resource 0x3c03000a com.salton123.sf.libbase:layout/design_navigation_item: t=0x03 d=0x0000004f (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_item.xml"
+        resource 0x3c03000b com.salton123.sf.libbase:layout/design_navigation_item_header: t=0x03 d=0x00000050 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_item_header.xml"
+        resource 0x3c03000c com.salton123.sf.libbase:layout/design_navigation_item_separator: t=0x03 d=0x00000051 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_item_separator.xml"
+        resource 0x3c03000d com.salton123.sf.libbase:layout/design_navigation_item_subheader: t=0x03 d=0x00000052 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_item_subheader.xml"
+        resource 0x3c03000e com.salton123.sf.libbase:layout/design_navigation_menu: t=0x03 d=0x00000053 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_menu.xml"
+        resource 0x3c03000f com.salton123.sf.libbase:layout/design_navigation_menu_item: t=0x03 d=0x00000054 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_navigation_menu_item.xml"
+        resource 0x3c030010 com.salton123.sf.libbase:layout/design_text_input_password_icon: t=0x03 d=0x00000055 (s=0x0008 r=0x00)
+          (string8) "res/layout/design_text_input_password_icon.xml"
+        resource 0x3c030011 com.salton123.sf.libbase:layout/fragment_content: t=0x03 d=0x00000056 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_content.xml"
+        resource 0x3c030012 com.salton123.sf.libbase:layout/fragment_cycle: t=0x03 d=0x00000057 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_cycle.xml"
+        resource 0x3c030013 com.salton123.sf.libbase:layout/fragment_detail: t=0x03 d=0x00000058 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_detail.xml"
+        resource 0x3c030014 com.salton123.sf.libbase:layout/fragment_discover: t=0x03 d=0x00000059 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_discover.xml"
+        resource 0x3c030015 com.salton123.sf.libbase:layout/fragment_home: t=0x03 d=0x0000005a (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_home.xml"
+        resource 0x3c030016 com.salton123.sf.libbase:layout/fragment_list_menu: t=0x03 d=0x0000005b (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_list_menu.xml"
+        resource 0x3c030017 com.salton123.sf.libbase:layout/fragment_login: t=0x03 d=0x0000005c (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_login.xml"
+        resource 0x3c030018 com.salton123.sf.libbase:layout/fragment_modify_detail: t=0x03 d=0x0000005d (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_modify_detail.xml"
+        resource 0x3c030019 com.salton123.sf.libbase:layout/fragment_pager: t=0x03 d=0x0000005e (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_pager.xml"
+        resource 0x3c03001a com.salton123.sf.libbase:layout/fragment_register: t=0x03 d=0x0000005f (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_register.xml"
+        resource 0x3c03001b com.salton123.sf.libbase:layout/fragment_shop: t=0x03 d=0x00000060 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_shop.xml"
+        resource 0x3c03001c com.salton123.sf.libbase:layout/fragment_swipe_back_first: t=0x03 d=0x00000061 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_swipe_back_first.xml"
+        resource 0x3c03001d com.salton123.sf.libbase:layout/fragment_swipe_back_recy: t=0x03 d=0x00000062 (s=0x0008 r=0x00)
+          (string8) "res/layout/fragment_swipe_back_recy.xml"
+        resource 0x3c03001e com.salton123.sf.libbase:layout/item_home: t=0x03 d=0x00000063 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_home.xml"
+        resource 0x3c03001f com.salton123.sf.libbase:layout/item_menu: t=0x03 d=0x00000064 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_menu.xml"
+        resource 0x3c030020 com.salton123.sf.libbase:layout/item_pager: t=0x03 d=0x00000065 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_pager.xml"
+        resource 0x3c030021 com.salton123.sf.libbase:layout/item_wechat_chat: t=0x03 d=0x00000066 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_wechat_chat.xml"
+        resource 0x3c030022 com.salton123.sf.libbase:layout/item_wechat_msg: t=0x03 d=0x00000067 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_wechat_msg.xml"
+        resource 0x3c030023 com.salton123.sf.libbase:layout/item_zhihu_home_first: t=0x03 d=0x00000068 (s=0x0008 r=0x00)
+          (string8) "res/layout/item_zhihu_home_first.xml"
+        resource 0x3c030024 com.salton123.sf.libbase:layout/nav_header_main: t=0x03 d=0x00000069 (s=0x0008 r=0x00)
+          (string8) "res/layout/nav_header_main.xml"
+        resource 0x3c030025 com.salton123.sf.libbase:layout/toolbar: t=0x03 d=0x0000006a (s=0x0008 r=0x00)
+          (string8) "res/layout/toolbar.xml"
+        resource 0x3c030026 com.salton123.sf.libbase:layout/wechat_activity_main: t=0x03 d=0x0000006b (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_activity_main.xml"
+        resource 0x3c030027 com.salton123.sf.libbase:layout/wechat_fragment_main: t=0x03 d=0x0000006c (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_main.xml"
+        resource 0x3c030028 com.salton123.sf.libbase:layout/wechat_fragment_new_feature: t=0x03 d=0x0000006d (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_new_feature.xml"
+        resource 0x3c030029 com.salton123.sf.libbase:layout/wechat_fragment_tab_first: t=0x03 d=0x0000006e (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_first.xml"
+        resource 0x3c03002a com.salton123.sf.libbase:layout/wechat_fragment_tab_first_msg: t=0x03 d=0x0000006f (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_first_msg.xml"
+        resource 0x3c03002b com.salton123.sf.libbase:layout/wechat_fragment_tab_second: t=0x03 d=0x00000070 (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_second.xml"
+        resource 0x3c03002c com.salton123.sf.libbase:layout/wechat_fragment_tab_second_pager_first: t=0x03 d=0x00000071 (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_second_pager_first.xml"
+        resource 0x3c03002d com.salton123.sf.libbase:layout/wechat_fragment_tab_second_pager_other: t=0x03 d=0x00000072 (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_second_pager_other.xml"
+        resource 0x3c03002e com.salton123.sf.libbase:layout/wechat_fragment_tab_third: t=0x03 d=0x00000073 (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_tab_third.xml"
+        resource 0x3c03002f com.salton123.sf.libbase:layout/wechat_fragment_view: t=0x03 d=0x00000074 (s=0x0008 r=0x00)
+          (string8) "res/layout/wechat_fragment_view.xml"
+        resource 0x3c030030 com.salton123.sf.libbase:layout/zhihu_activity_main: t=0x03 d=0x00000075 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_activity_main.xml"
+        resource 0x3c030031 com.salton123.sf.libbase:layout/zhihu_fragment_fourth: t=0x03 d=0x00000076 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_fourth.xml"
+        resource 0x3c030032 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_avatar: t=0x03 d=0x00000077 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_fourth_avatar.xml"
+        resource 0x3c030033 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_me: t=0x03 d=0x00000078 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_fourth_me.xml"
+        resource 0x3c030034 com.salton123.sf.libbase:layout/zhihu_fragment_fourth_settings: t=0x03 d=0x00000079 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_fourth_settings.xml"
+        resource 0x3c030035 com.salton123.sf.libbase:layout/zhihu_fragment_second: t=0x03 d=0x0000007a (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_second.xml"
+        resource 0x3c030036 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager: t=0x03 d=0x0000007b (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_second_pager.xml"
+        resource 0x3c030037 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager_first: t=0x03 d=0x0000007c (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_second_pager_first.xml"
+        resource 0x3c030038 com.salton123.sf.libbase:layout/zhihu_fragment_second_pager_other: t=0x03 d=0x0000007d (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_second_pager_other.xml"
+        resource 0x3c030039 com.salton123.sf.libbase:layout/zhihu_fragment_third: t=0x03 d=0x0000007e (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_third.xml"
+      config sw600dp-v13:
+        resource 0x3c030005 com.salton123.sf.libbase:layout/design_layout_snackbar: t=0x03 d=0x0000007f (s=0x0008 r=0x00)
+          (string8) "res/layout-sw600dp-v13/design_layout_snackbar.xml"
+      config v21:
+        resource 0x3c030002 com.salton123.sf.libbase:layout/content_detail: t=0x03 d=0x00000080 (s=0x0008 r=0x00)
+          (string8) "res/layout-v21/content_detail.xml"
+    type 3 configCount=2 entryCount=14
+      spec resource 0x3c040000 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_in: flags=0x00000400
+      spec resource 0x3c040001 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_out: flags=0x00000400
+      spec resource 0x3c040002 com.salton123.sf.libbase:anim/design_snackbar_in: flags=0x00000000
+      spec resource 0x3c040003 com.salton123.sf.libbase:anim/design_snackbar_out: flags=0x00000000
+      spec resource 0x3c040004 com.salton123.sf.libbase:anim/h_fragment_enter: flags=0x00000000
+      spec resource 0x3c040005 com.salton123.sf.libbase:anim/h_fragment_exit: flags=0x00000000
+      spec resource 0x3c040006 com.salton123.sf.libbase:anim/h_fragment_pop_enter: flags=0x00000000
+      spec resource 0x3c040007 com.salton123.sf.libbase:anim/h_fragment_pop_exit: flags=0x00000000
+      spec resource 0x3c040008 com.salton123.sf.libbase:anim/no_anim: flags=0x00000000
+      spec resource 0x3c040009 com.salton123.sf.libbase:anim/pop_exit_no_anim: flags=0x00000000
+      spec resource 0x3c04000a com.salton123.sf.libbase:anim/v_fragment_enter: flags=0x00000000
+      spec resource 0x3c04000b com.salton123.sf.libbase:anim/v_fragment_exit: flags=0x00000000
+      spec resource 0x3c04000c com.salton123.sf.libbase:anim/v_fragment_pop_enter: flags=0x00000000
+      spec resource 0x3c04000d com.salton123.sf.libbase:anim/v_fragment_pop_exit: flags=0x00000000
+      config (default):
+        resource 0x3c040000 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_in: t=0x03 d=0x00000081 (s=0x0008 r=0x00)
+          (string8) "res/anim/design_bottom_sheet_slide_in.xml"
+        resource 0x3c040001 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_out: t=0x03 d=0x00000082 (s=0x0008 r=0x00)
+          (string8) "res/anim/design_bottom_sheet_slide_out.xml"
+        resource 0x3c040002 com.salton123.sf.libbase:anim/design_snackbar_in: t=0x03 d=0x00000083 (s=0x0008 r=0x00)
+          (string8) "res/anim/design_snackbar_in.xml"
+        resource 0x3c040003 com.salton123.sf.libbase:anim/design_snackbar_out: t=0x03 d=0x00000084 (s=0x0008 r=0x00)
+          (string8) "res/anim/design_snackbar_out.xml"
+        resource 0x3c040004 com.salton123.sf.libbase:anim/h_fragment_enter: t=0x03 d=0x00000085 (s=0x0008 r=0x00)
+          (string8) "res/anim/h_fragment_enter.xml"
+        resource 0x3c040005 com.salton123.sf.libbase:anim/h_fragment_exit: t=0x03 d=0x00000086 (s=0x0008 r=0x00)
+          (string8) "res/anim/h_fragment_exit.xml"
+        resource 0x3c040006 com.salton123.sf.libbase:anim/h_fragment_pop_enter: t=0x03 d=0x00000087 (s=0x0008 r=0x00)
+          (string8) "res/anim/h_fragment_pop_enter.xml"
+        resource 0x3c040007 com.salton123.sf.libbase:anim/h_fragment_pop_exit: t=0x03 d=0x00000088 (s=0x0008 r=0x00)
+          (string8) "res/anim/h_fragment_pop_exit.xml"
+        resource 0x3c040008 com.salton123.sf.libbase:anim/no_anim: t=0x03 d=0x00000089 (s=0x0008 r=0x00)
+          (string8) "res/anim/no_anim.xml"
+        resource 0x3c040009 com.salton123.sf.libbase:anim/pop_exit_no_anim: t=0x03 d=0x0000008a (s=0x0008 r=0x00)
+          (string8) "res/anim/pop_exit_no_anim.xml"
+        resource 0x3c04000a com.salton123.sf.libbase:anim/v_fragment_enter: t=0x03 d=0x0000008b (s=0x0008 r=0x00)
+          (string8) "res/anim/v_fragment_enter.xml"
+        resource 0x3c04000b com.salton123.sf.libbase:anim/v_fragment_exit: t=0x03 d=0x0000008c (s=0x0008 r=0x00)
+          (string8) "res/anim/v_fragment_exit.xml"
+        resource 0x3c04000c com.salton123.sf.libbase:anim/v_fragment_pop_enter: t=0x03 d=0x0000008d (s=0x0008 r=0x00)
+          (string8) "res/anim/v_fragment_pop_enter.xml"
+        resource 0x3c04000d com.salton123.sf.libbase:anim/v_fragment_pop_exit: t=0x03 d=0x0000008e (s=0x0008 r=0x00)
+          (string8) "res/anim/v_fragment_pop_exit.xml"
+      config v21:
+        resource 0x3c040000 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_in: t=0x03 d=0x0000008f (s=0x0008 r=0x00)
+          (string8) "res/anim-v21/design_bottom_sheet_slide_in.xml"
+        resource 0x3c040001 com.salton123.sf.libbase:anim/design_bottom_sheet_slide_out: t=0x03 d=0x00000090 (s=0x0008 r=0x00)
+          (string8) "res/anim-v21/design_bottom_sheet_slide_out.xml"
+    type 4 configCount=1 entryCount=1
+      spec resource 0x3c050000 com.salton123.sf.libbase:animator/design_appbar_state_list_animator: flags=0x00000000
+      config v21:
+        resource 0x3c050000 com.salton123.sf.libbase:animator/design_appbar_state_list_animator: t=0x03 d=0x00000091 (s=0x0008 r=0x00)
+          (string8) "res/animator-v21/design_appbar_state_list_animator.xml"
+    type 5 configCount=2 entryCount=57
+      spec resource 0x3c060000 com.salton123.sf.libbase:string/account: flags=0x00000004
+      spec resource 0x3c060001 com.salton123.sf.libbase:string/action_anim_v: flags=0x00000004
+      spec resource 0x3c060002 com.salton123.sf.libbase:string/all: flags=0x00000004
+      spec resource 0x3c060003 com.salton123.sf.libbase:string/anim: flags=0x00000004
+      spec resource 0x3c060004 com.salton123.sf.libbase:string/anim_h: flags=0x00000004
+      spec resource 0x3c060005 com.salton123.sf.libbase:string/anim_none: flags=0x00000004
+      spec resource 0x3c060006 com.salton123.sf.libbase:string/anim_v: flags=0x00000004
+      spec resource 0x3c060007 com.salton123.sf.libbase:string/btn_basic: flags=0x00000004
+      spec resource 0x3c060008 com.salton123.sf.libbase:string/btn_complicated: flags=0x00000004
+      spec resource 0x3c060009 com.salton123.sf.libbase:string/btn_normal: flags=0x00000004
+      spec resource 0x3c06000a com.salton123.sf.libbase:string/can_swipe: flags=0x00000004
+      spec resource 0x3c06000b com.salton123.sf.libbase:string/discover: flags=0x00000004
+      spec resource 0x3c06000c com.salton123.sf.libbase:string/error_pwd: flags=0x00000004
+      spec resource 0x3c06000d com.salton123.sf.libbase:string/error_username: flags=0x00000004
+      spec resource 0x3c06000e com.salton123.sf.libbase:string/favorite: flags=0x00000004
+      spec resource 0x3c06000f com.salton123.sf.libbase:string/go_swipe_back: flags=0x00000004
+      spec resource 0x3c060010 com.salton123.sf.libbase:string/home: flags=0x00000004
+      spec resource 0x3c060011 com.salton123.sf.libbase:string/hot: flags=0x00000004
+      spec resource 0x3c060012 com.salton123.sf.libbase:string/hot_news: flags=0x00000004
+      spec resource 0x3c060013 com.salton123.sf.libbase:string/image_transition: flags=0x00000004
+      spec resource 0x3c060014 com.salton123.sf.libbase:string/large_text: flags=0x00000004
+      spec resource 0x3c060015 com.salton123.sf.libbase:string/login: flags=0x00000004
+      spec resource 0x3c060016 com.salton123.sf.libbase:string/me: flags=0x00000004
+      spec resource 0x3c060017 com.salton123.sf.libbase:string/modify: flags=0x00000004
+      spec resource 0x3c060018 com.salton123.sf.libbase:string/modify_success: flags=0x00000004
+      spec resource 0x3c060019 com.salton123.sf.libbase:string/modify_title: flags=0x00000004
+      spec resource 0x3c06001a com.salton123.sf.libbase:string/more: flags=0x00000004
+      spec resource 0x3c06001b com.salton123.sf.libbase:string/msg: flags=0x00000004
+      spec resource 0x3c06001c com.salton123.sf.libbase:string/navigation_drawer_close: flags=0x00000004
+      spec resource 0x3c06001d com.salton123.sf.libbase:string/navigation_drawer_open: flags=0x00000004
+      spec resource 0x3c06001e com.salton123.sf.libbase:string/new_tip_start: flags=0x00000004
+      spec resource 0x3c06001f com.salton123.sf.libbase:string/new_tip_start_dont_hide: flags=0x00000004
+      spec resource 0x3c060020 com.salton123.sf.libbase:string/password: flags=0x00000004
+      spec resource 0x3c060021 com.salton123.sf.libbase:string/press_again_exit: flags=0x00000004
+      spec resource 0x3c060022 com.salton123.sf.libbase:string/recommend: flags=0x00000004
+      spec resource 0x3c060023 com.salton123.sf.libbase:string/register: flags=0x00000004
+      spec resource 0x3c060024 com.salton123.sf.libbase:string/send: flags=0x00000004
+      spec resource 0x3c060025 com.salton123.sf.libbase:string/settings: flags=0x00000004
+      spec resource 0x3c060026 com.salton123.sf.libbase:string/shop: flags=0x00000004
+      spec resource 0x3c060027 com.salton123.sf.libbase:string/sign_in_success: flags=0x00000004
+      spec resource 0x3c060028 com.salton123.sf.libbase:string/start_cycler: flags=0x00000004
+      spec resource 0x3c060029 com.salton123.sf.libbase:string/start_result_test: flags=0x00000004
+      spec resource 0x3c06002a com.salton123.sf.libbase:string/start_with_pop: flags=0x00000004
+      spec resource 0x3c06002b com.salton123.sf.libbase:string/swipe: flags=0x00000004
+      spec resource 0x3c06002c com.salton123.sf.libbase:string/swipe_back: flags=0x00000004
+      spec resource 0x3c06002d com.salton123.sf.libbase:string/system: flags=0x00000004
+      spec resource 0x3c06002e com.salton123.sf.libbase:string/time: flags=0x00000004
+      spec resource 0x3c06002f com.salton123.sf.libbase:string/tip_single_multi: flags=0x00000004
+      spec resource 0x3c060030 com.salton123.sf.libbase:string/upper_process: flags=0x00000004
+      spec resource 0x3c060031 com.salton123.sf.libbase:string/appbar_scrolling_view_behavior: flags=0x00000000
+      spec resource 0x3c060032 com.salton123.sf.libbase:string/bottom_sheet_behavior: flags=0x00000000
+      spec resource 0x3c060033 com.salton123.sf.libbase:string/character_counter_pattern: flags=0x00000000
+      spec resource 0x3c060034 com.salton123.sf.libbase:string/password_toggle_content_description: flags=0x00000000
+      spec resource 0x3c060035 com.salton123.sf.libbase:string/path_password_eye: flags=0x00000000
+      spec resource 0x3c060036 com.salton123.sf.libbase:string/path_password_eye_mask_strike_through: flags=0x00000000
+      spec resource 0x3c060037 com.salton123.sf.libbase:string/path_password_eye_mask_visible: flags=0x00000000
+      spec resource 0x3c060038 com.salton123.sf.libbase:string/path_password_strike_through: flags=0x00000000
+      config (default):
+        resource 0x3c060000 com.salton123.sf.libbase:string/account: t=0x03 d=0x00000092 (s=0x0008 r=0x00)
+          (string8) "Username"
+        resource 0x3c060001 com.salton123.sf.libbase:string/action_anim_v: t=0x03 d=0x00000093 (s=0x0008 r=0x00)
+          (string8) "Set animation:Vertical(Default)"
+        resource 0x3c060002 com.salton123.sf.libbase:string/all: t=0x03 d=0x00000094 (s=0x0008 r=0x00)
+          (string8) "All"
+        resource 0x3c060003 com.salton123.sf.libbase:string/anim: t=0x03 d=0x00000095 (s=0x0008 r=0x00)
+          (string8) "anim"
+        resource 0x3c060004 com.salton123.sf.libbase:string/anim_h: t=0x03 d=0x00000096 (s=0x0008 r=0x00)
+          (string8) "Set animation: Horizontal"
+        resource 0x3c060005 com.salton123.sf.libbase:string/anim_none: t=0x03 d=0x00000097 (s=0x0008 r=0x00)
+          (string8) "Set animation: None"
+        resource 0x3c060006 com.salton123.sf.libbase:string/anim_v: t=0x03 d=0x00000098 (s=0x0008 r=0x00)
+          (string8) "Set animation: Vertical"
+        resource 0x3c060007 com.salton123.sf.libbase:string/btn_basic: t=0x03 d=0x00000099 (s=0x0008 r=0x00)
+          (string8) "Demo1: Similar to GooglePlay"
+        resource 0x3c060008 com.salton123.sf.libbase:string/btn_complicated: t=0x03 d=0x0000009a (s=0x0008 r=0x00)
+          (string8) "Demo3: Complicated nested"
+        resource 0x3c060009 com.salton123.sf.libbase:string/btn_normal: t=0x03 d=0x0000009b (s=0x0008 r=0x00)
+          (string8) "Demo2: Similar to Instagram"
+        resource 0x3c06000a com.salton123.sf.libbase:string/can_swipe: t=0x03 d=0x0000009c (s=0x0008 r=0x00)
+          (string8) "can be swipe-back"
+        resource 0x3c06000b com.salton123.sf.libbase:string/discover: t=0x03 d=0x0000009d (s=0x0008 r=0x00)
+          (string8) "Discover"
+        resource 0x3c06000c com.salton123.sf.libbase:string/error_pwd: t=0x03 d=0x0000009e (s=0x0008 r=0x00)
+          (string8) "This password is invalid"
+        resource 0x3c06000d com.salton123.sf.libbase:string/error_username: t=0x03 d=0x0000009f (s=0x0008 r=0x00)
+          (string8) "This username is invalid"
+        resource 0x3c06000e com.salton123.sf.libbase:string/favorite: t=0x03 d=0x000000a0 (s=0x0008 r=0x00)
+          (string8) "Favorite"
+        resource 0x3c06000f com.salton123.sf.libbase:string/go_swipe_back: t=0x03 d=0x000000a1 (s=0x0008 r=0x00)
+          (string8) "SwipeBackActivity+Fragment"
+        resource 0x3c060010 com.salton123.sf.libbase:string/home: t=0x03 d=0x000000a2 (s=0x0008 r=0x00)
+          (string8) "Home"
+        resource 0x3c060011 com.salton123.sf.libbase:string/hot: t=0x03 d=0x000000a3 (s=0x0008 r=0x00)
+          (string8) "Hot"
+        resource 0x3c060012 com.salton123.sf.libbase:string/hot_news: t=0x03 d=0x000000a4 (s=0x0008 r=0x00)
+          (string8) "hot"
+        resource 0x3c060013 com.salton123.sf.libbase:string/image_transition: t=0x03 d=0x000000a5 (s=0x0008 r=0x00)
+          (string8) "image_transition"
+        resource 0x3c060014 com.salton123.sf.libbase:string/large_text: t=0x03 d=0x000000a6 (s=0x0008 r=0x00)
+          (string8) "Material is the metaphor.\n\n A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet  technologically advanced and open to imagination and magic.\n Surfaces and edges of the material provide visual cues that are grounded in reality. The  use of familiar tactile attributes helps users quickly understand affordances. Yet the  flexibility of the material creates new affordances that supercede those in the physical  world, without breaking the rules of physics.\n The fundamentals of light, surface, and movement are key to conveying how objects move,  interact, and exist in space and in relation to each other. Realistic lighting shows  seams, divides space, and indicates moving parts.\n\n Bold, graphic, intentional.\n\n The foundational elements of print based design typography, grids, space, scale, color,  and use of imagery guide visual treatments. These elements do far more than please the  eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge  imagery, large scale typography, and intentional white space create a bold and graphic  interface that immerse the user in the experience.\n An emphasis on user actions makes core functionality immediately apparent and provides  waypoints for the user.\n\n Motion provides meaning.\n\n Motion respects and reinforces the user as the prime mover. Primary user actions are  inflection points that initiate motion, transforming the whole design.\n All action takes place in a single environment. Objects are presented to the user without  breaking the continuity of experience even as they transform and reorganize.\n Motion is meaningful and appropriate, serving to focus attention and maintain continuity.  Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n 3D world.\n\n The material environment is a 3D space, which means all objects have x, y, and z  dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the  positive z-axis extending towards the viewer. Every sheet of material occupies a single  position along the z-axis and has a standard 1dp thickness.\n On the web, the z-axis is used for layering and not for perspective. The 3D world is  emulated by manipulating the y-axis.\n\n Light and shadow.\n\n Within the material environment, virtual lights illuminate the scene. Key lights create  directional shadows, while ambient light creates soft shadows from all angles.\n Shadows in the material environment are cast by these two light sources. In Android  development, shadows occur when light sources are blocked by sheets of material at  various positions along the z-axis. On the web, shadows are depicted by manipulating the  y-axis only. The following example shows the card with a height of 6dp.\n\n Resting elevation.\n\n All material objects, regardless of size, have a resting elevation, or default elevation  that does not change. If an object changes elevation, it should return to its resting  elevation as soon as possible.\n\n Component elevations.\n\n The resting elevation for a component type is consistent across apps (e.g., FAB elevation  does not vary from 6dp in one app to 16dp in another app).\n Components may have different resting elevations across platforms, depending on the depth  of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n Responsive elevation and dynamic elevation offsets.\n\n Some component types have responsive elevation, meaning they change elevation in response  to user input (e.g., normal, focused, and pressed) or system events. These elevation  changes are consistently implemented using dynamic elevation offsets.\n Dynamic elevation offsets are the goal elevation that a component moves towards, relative  to the component’s resting state. They ensure that elevation changes are consistent  across actions and component types. For example, all components that lift on press have  the same elevation change relative to their resting elevation.\n Once the input event is completed or cancelled, the component will return to its resting  elevation.\n\n Avoiding elevation interference.\n\n Components with responsive elevations may encounter other components as they move between  their resting elevations and dynamic elevation offsets. Because material cannot pass  through other material, components avoid interfering with one another any number of ways,  whether on a per component basis or using the entire app layout.\n On a component level, components can move or be removed before they cause interference.  For example, a floating action button (FAB) can disappear or move off screen before a  user picks up a card, or it can move if a snackbar appears.\n On the layout level, design your app layout to minimize opportunities for interference.  For example, position the FAB to one side of stream of a cards so the FAB won’t interfere  when a user tries to pick up one of cards.\n\n"
+        resource 0x3c060015 com.salton123.sf.libbase:string/login: t=0x03 d=0x000000a7 (s=0x0008 r=0x00)
+          (string8) "Sign in"
+        resource 0x3c060016 com.salton123.sf.libbase:string/me: t=0x03 d=0x000000a8 (s=0x0008 r=0x00)
+          (string8) "Me"
+        resource 0x3c060017 com.salton123.sf.libbase:string/modify: t=0x03 d=0x000000a9 (s=0x0008 r=0x00)
+          (string8) "Modify Title"
+        resource 0x3c060018 com.salton123.sf.libbase:string/modify_success: t=0x03 d=0x000000aa (s=0x0008 r=0x00)
+          (string8) "Modify successfully!"
+        resource 0x3c060019 com.salton123.sf.libbase:string/modify_title: t=0x03 d=0x000000ab (s=0x0008 r=0x00)
+          (string8) "Modify the title successfully"
+        resource 0x3c06001a com.salton123.sf.libbase:string/more: t=0x03 d=0x000000ac (s=0x0008 r=0x00)
+          (string8) "more"
+        resource 0x3c06001b com.salton123.sf.libbase:string/msg: t=0x03 d=0x000000ad (s=0x0008 r=0x00)
+          (string8) "Msg"
+        resource 0x3c06001c com.salton123.sf.libbase:string/navigation_drawer_close: t=0x03 d=0x000000ae (s=0x0008 r=0x00)
+          (string8) "Close navigation drawer"
+        resource 0x3c06001d com.salton123.sf.libbase:string/navigation_drawer_open: t=0x03 d=0x000000af (s=0x0008 r=0x00)
+          (string8) "Open navigation drawer"
+        resource 0x3c06001e com.salton123.sf.libbase:string/new_tip_start: t=0x03 d=0x000000b0 (s=0x0008 r=0x00)
+          (string8) "Customize the animation between the Fragments"
+        resource 0x3c06001f com.salton123.sf.libbase:string/new_tip_start_dont_hide: t=0x03 d=0x000000b1 (s=0x0008 r=0x00)
+          (string8) "Customize the animation between the Fragments, and do not hide self"
+        resource 0x3c060020 com.salton123.sf.libbase:string/password: t=0x03 d=0x000000b2 (s=0x0008 r=0x00)
+          (string8) "Password"
+        resource 0x3c060021 com.salton123.sf.libbase:string/press_again_exit: t=0x03 d=0x000000b3 (s=0x0008 r=0x00)
+          (string8) "Press again to exit"
+        resource 0x3c060022 com.salton123.sf.libbase:string/recommend: t=0x03 d=0x000000b4 (s=0x0008 r=0x00)
+          (string8) "Recommend"
+        resource 0x3c060023 com.salton123.sf.libbase:string/register: t=0x03 d=0x000000b5 (s=0x0008 r=0x00)
+          (string8) "Register"
+        resource 0x3c060024 com.salton123.sf.libbase:string/send: t=0x03 d=0x000000b6 (s=0x0008 r=0x00)
+          (string8) "Send"
+        resource 0x3c060025 com.salton123.sf.libbase:string/settings: t=0x03 d=0x000000b7 (s=0x0008 r=0x00)
+          (string8) "Settings"
+        resource 0x3c060026 com.salton123.sf.libbase:string/shop: t=0x03 d=0x000000b8 (s=0x0008 r=0x00)
+          (string8) "Shop"
+        resource 0x3c060027 com.salton123.sf.libbase:string/sign_in_success: t=0x03 d=0x000000b9 (s=0x0008 r=0x00)
+          (string8) "Sign in successful, NavigationView's name has changed"
+        resource 0x3c060028 com.salton123.sf.libbase:string/start_cycler: t=0x03 d=0x000000ba (s=0x0008 r=0x00)
+          (string8) "Start CyclerFragment"
+        resource 0x3c060029 com.salton123.sf.libbase:string/start_result_test: t=0x03 d=0x000000bb (s=0x0008 r=0x00)
+          (string8) "StartForResult Sample"
+        resource 0x3c06002a com.salton123.sf.libbase:string/start_with_pop: t=0x03 d=0x000000bc (s=0x0008 r=0x00)
+          (string8) "Start CyclerFragment, and finish self"
+        resource 0x3c06002b com.salton123.sf.libbase:string/swipe: t=0x03 d=0x000000bd (s=0x0008 r=0x00)
+          (string8) "SwipeBack"
+        resource 0x3c06002c com.salton123.sf.libbase:string/swipe_back: t=0x03 d=0x000000be (s=0x0008 r=0x00)
+          (string8) "Swipe back"
+        resource 0x3c06002d com.salton123.sf.libbase:string/system: t=0x03 d=0x000000bf (s=0x0008 r=0x00)
+          (string8) "Account"
+        resource 0x3c06002e com.salton123.sf.libbase:string/time: t=0x03 d=0x000000c0 (s=0x0008 r=0x00)
+          (string8) "2 days ago"
+        resource 0x3c06002f com.salton123.sf.libbase:string/tip_single_multi: t=0x03 d=0x000000c1 (s=0x0008 r=0x00)
+          (string8) "Single Activity + Multi-Fragments:"
+        resource 0x3c060030 com.salton123.sf.libbase:string/upper_process: t=0x03 d=0x000000c2 (s=0x0008 r=0x00)
+          (string8) "Passed to the upper processing!"
+        resource 0x3c060031 com.salton123.sf.libbase:string/appbar_scrolling_view_behavior: t=0x03 d=0x000000c3 (s=0x0008 r=0x00)
+          (string8) "android.support.design.widget.AppBarLayout$ScrollingViewBehavior"
+        resource 0x3c060032 com.salton123.sf.libbase:string/bottom_sheet_behavior: t=0x03 d=0x000000c4 (s=0x0008 r=0x00)
+          (string8) "android.support.design.widget.BottomSheetBehavior"
+        resource 0x3c060033 com.salton123.sf.libbase:string/character_counter_pattern: t=0x03 d=0x000000c5 (s=0x0008 r=0x00)
+          (string8) "%1$d / %2$d"
+        resource 0x3c060034 com.salton123.sf.libbase:string/password_toggle_content_description: t=0x03 d=0x000000c6 (s=0x0008 r=0x00)
+          (string8) "Toggle password visibility"
+        resource 0x3c060035 com.salton123.sf.libbase:string/path_password_eye: t=0x03 d=0x000000c7 (s=0x0008 r=0x00)
+          (string8) "M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z"
+        resource 0x3c060036 com.salton123.sf.libbase:string/path_password_eye_mask_strike_through: t=0x03 d=0x000000c8 (s=0x0008 r=0x00)
+          (string8) "M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z"
+        resource 0x3c060037 com.salton123.sf.libbase:string/path_password_eye_mask_visible: t=0x03 d=0x000000c9 (s=0x0008 r=0x00)
+          (string8) "M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z"
+        resource 0x3c060038 com.salton123.sf.libbase:string/path_password_strike_through: t=0x03 d=0x000000ca (s=0x0008 r=0x00)
+          (string8) "M3.27,4.27 L19.74,20.74"
+      config zh:
+        resource 0x3c060000 com.salton123.sf.libbase:string/account: t=0x03 d=0x000000cb (s=0x0008 r=0x00)
+          (string8) "用户名"
+        resource 0x3c060001 com.salton123.sf.libbase:string/action_anim_v: t=0x03 d=0x000000cc (s=0x0008 r=0x00)
+          (string8) "设置全局动画成功! 竖向(默认)"
+        resource 0x3c060002 com.salton123.sf.libbase:string/all: t=0x03 d=0x000000cd (s=0x0008 r=0x00)
+          (string8) "全部"
+        resource 0x3c060003 com.salton123.sf.libbase:string/anim: t=0x03 d=0x000000ce (s=0x0008 r=0x00)
+          (string8) "动画"
+        resource 0x3c060004 com.salton123.sf.libbase:string/anim_h: t=0x03 d=0x000000cf (s=0x0008 r=0x00)
+          (string8) "设置全局动画成功! 横向"
+        resource 0x3c060005 com.salton123.sf.libbase:string/anim_none: t=0x03 d=0x000000d0 (s=0x0008 r=0x00)
+          (string8) "设置全局动画成功! 无"
+        resource 0x3c060006 com.salton123.sf.libbase:string/anim_v: t=0x03 d=0x000000d1 (s=0x0008 r=0x00)
+          (string8) "设置全局动画成功! 竖向"
+        resource 0x3c060007 com.salton123.sf.libbase:string/btn_basic: t=0x03 d=0x000000d2 (s=0x0008 r=0x00)
+          (string8) "仿GooglePlay交互Demo (流式栈设计)"
+        resource 0x3c060008 com.salton123.sf.libbase:string/btn_complicated: t=0x03 d=0x000000d3 (s=0x0008 r=0x00)
+          (string8) "仿知乎交互Demo (复杂嵌套栈设计)"
+        resource 0x3c060009 com.salton123.sf.libbase:string/btn_normal: t=0x03 d=0x000000d4 (s=0x0008 r=0x00)
+          (string8) "仿微信交互Demo (最常用的栈设计)"
+        resource 0x3c06000a com.salton123.sf.libbase:string/can_swipe: t=0x03 d=0x000000d5 (s=0x0008 r=0x00)
+          (string8) "可侧滑返回"
+        resource 0x3c06000b com.salton123.sf.libbase:string/discover: t=0x03 d=0x000000d6 (s=0x0008 r=0x00)
+          (string8) "发现"
+        resource 0x3c06000c com.salton123.sf.libbase:string/error_pwd: t=0x03 d=0x000000d7 (s=0x0008 r=0x00)
+          (string8) "密码无效"
+        resource 0x3c06000d com.salton123.sf.libbase:string/error_username: t=0x03 d=0x000000d8 (s=0x0008 r=0x00)
+          (string8) "用户名无效"
+        resource 0x3c06000e com.salton123.sf.libbase:string/favorite: t=0x03 d=0x000000d9 (s=0x0008 r=0x00)
+          (string8) "收藏"
+        resource 0x3c06000f com.salton123.sf.libbase:string/go_swipe_back: t=0x03 d=0x000000a1 (s=0x0008 r=0x00)
+          (string8) "SwipeBackActivity+Fragment"
+        resource 0x3c060010 com.salton123.sf.libbase:string/home: t=0x03 d=0x000000da (s=0x0008 r=0x00)
+          (string8) "首页"
+        resource 0x3c060011 com.salton123.sf.libbase:string/hot: t=0x03 d=0x000000db (s=0x0008 r=0x00)
+          (string8) "热门"
+        resource 0x3c060012 com.salton123.sf.libbase:string/hot_news: t=0x03 d=0x000000dc (s=0x0008 r=0x00)
+          (string8) "热门新闻"
+        resource 0x3c060013 com.salton123.sf.libbase:string/image_transition: t=0x03 d=0x000000a5 (s=0x0008 r=0x00)
+          (string8) "image_transition"
+        resource 0x3c060014 com.salton123.sf.libbase:string/large_text: t=0x03 d=0x000000a6 (s=0x0008 r=0x00)
+          (string8) "Material is the metaphor.\n\n A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet  technologically advanced and open to imagination and magic.\n Surfaces and edges of the material provide visual cues that are grounded in reality. The  use of familiar tactile attributes helps users quickly understand affordances. Yet the  flexibility of the material creates new affordances that supercede those in the physical  world, without breaking the rules of physics.\n The fundamentals of light, surface, and movement are key to conveying how objects move,  interact, and exist in space and in relation to each other. Realistic lighting shows  seams, divides space, and indicates moving parts.\n\n Bold, graphic, intentional.\n\n The foundational elements of print based design typography, grids, space, scale, color,  and use of imagery guide visual treatments. These elements do far more than please the  eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge  imagery, large scale typography, and intentional white space create a bold and graphic  interface that immerse the user in the experience.\n An emphasis on user actions makes core functionality immediately apparent and provides  waypoints for the user.\n\n Motion provides meaning.\n\n Motion respects and reinforces the user as the prime mover. Primary user actions are  inflection points that initiate motion, transforming the whole design.\n All action takes place in a single environment. Objects are presented to the user without  breaking the continuity of experience even as they transform and reorganize.\n Motion is meaningful and appropriate, serving to focus attention and maintain continuity.  Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n 3D world.\n\n The material environment is a 3D space, which means all objects have x, y, and z  dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the  positive z-axis extending towards the viewer. Every sheet of material occupies a single  position along the z-axis and has a standard 1dp thickness.\n On the web, the z-axis is used for layering and not for perspective. The 3D world is  emulated by manipulating the y-axis.\n\n Light and shadow.\n\n Within the material environment, virtual lights illuminate the scene. Key lights create  directional shadows, while ambient light creates soft shadows from all angles.\n Shadows in the material environment are cast by these two light sources. In Android  development, shadows occur when light sources are blocked by sheets of material at  various positions along the z-axis. On the web, shadows are depicted by manipulating the  y-axis only. The following example shows the card with a height of 6dp.\n\n Resting elevation.\n\n All material objects, regardless of size, have a resting elevation, or default elevation  that does not change. If an object changes elevation, it should return to its resting  elevation as soon as possible.\n\n Component elevations.\n\n The resting elevation for a component type is consistent across apps (e.g., FAB elevation  does not vary from 6dp in one app to 16dp in another app).\n Components may have different resting elevations across platforms, depending on the depth  of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n Responsive elevation and dynamic elevation offsets.\n\n Some component types have responsive elevation, meaning they change elevation in response  to user input (e.g., normal, focused, and pressed) or system events. These elevation  changes are consistently implemented using dynamic elevation offsets.\n Dynamic elevation offsets are the goal elevation that a component moves towards, relative  to the component’s resting state. They ensure that elevation changes are consistent  across actions and component types. For example, all components that lift on press have  the same elevation change relative to their resting elevation.\n Once the input event is completed or cancelled, the component will return to its resting  elevation.\n\n Avoiding elevation interference.\n\n Components with responsive elevations may encounter other components as they move between  their resting elevations and dynamic elevation offsets. Because material cannot pass  through other material, components avoid interfering with one another any number of ways,  whether on a per component basis or using the entire app layout.\n On a component level, components can move or be removed before they cause interference.  For example, a floating action button (FAB) can disappear or move off screen before a  user picks up a card, or it can move if a snackbar appears.\n On the layout level, design your app layout to minimize opportunities for interference.  For example, position the FAB to one side of stream of a cards so the FAB won’t interfere  when a user tries to pick up one of cards.\n\n"
+        resource 0x3c060015 com.salton123.sf.libbase:string/login: t=0x03 d=0x000000dd (s=0x0008 r=0x00)
+          (string8) "登录"
+        resource 0x3c060016 com.salton123.sf.libbase:string/me: t=0x03 d=0x000000de (s=0x0008 r=0x00)
+          (string8) "我的"
+        resource 0x3c060017 com.salton123.sf.libbase:string/modify: t=0x03 d=0x000000df (s=0x0008 r=0x00)
+          (string8) "修改上个页面的标题"
+        resource 0x3c060018 com.salton123.sf.libbase:string/modify_success: t=0x03 d=0x000000e0 (s=0x0008 r=0x00)
+          (string8) "修改成功!"
+        resource 0x3c060019 com.salton123.sf.libbase:string/modify_title: t=0x03 d=0x000000e1 (s=0x0008 r=0x00)
+          (string8) "修改标题成功！"
+        resource 0x3c06001a com.salton123.sf.libbase:string/more: t=0x03 d=0x000000e2 (s=0x0008 r=0x00)
+          (string8) "更多"
+        resource 0x3c06001b com.salton123.sf.libbase:string/msg: t=0x03 d=0x000000e3 (s=0x0008 r=0x00)
+          (string8) "消息"
+        resource 0x3c06001c com.salton123.sf.libbase:string/navigation_drawer_close: t=0x03 d=0x000000ae (s=0x0008 r=0x00)
+          (string8) "Close navigation drawer"
+        resource 0x3c06001d com.salton123.sf.libbase:string/navigation_drawer_open: t=0x03 d=0x000000af (s=0x0008 r=0x00)
+          (string8) "Open navigation drawer"
+        resource 0x3c06001e com.salton123.sf.libbase:string/new_tip_start: t=0x03 d=0x000000e4 (s=0x0008 r=0x00)
+          (string8) "自定义两者之间的动画启动一个Fragment"
+        resource 0x3c06001f com.salton123.sf.libbase:string/new_tip_start_dont_hide: t=0x03 d=0x000000e5 (s=0x0008 r=0x00)
+          (string8) "自定义两者之间的动画启动一个Fragment，并且不隐藏自己"
+        resource 0x3c060020 com.salton123.sf.libbase:string/password: t=0x03 d=0x000000e6 (s=0x0008 r=0x00)
+          (string8) "密码"
+        resource 0x3c060021 com.salton123.sf.libbase:string/press_again_exit: t=0x03 d=0x000000e7 (s=0x0008 r=0x00)
+          (string8) "再按一次退出"
+        resource 0x3c060022 com.salton123.sf.libbase:string/recommend: t=0x03 d=0x000000e8 (s=0x0008 r=0x00)
+          (string8) "推荐"
+        resource 0x3c060023 com.salton123.sf.libbase:string/register: t=0x03 d=0x000000e9 (s=0x0008 r=0x00)
+          (string8) "注册"
+        resource 0x3c060024 com.salton123.sf.libbase:string/send: t=0x03 d=0x000000ea (s=0x0008 r=0x00)
+          (string8) "发送"
+        resource 0x3c060025 com.salton123.sf.libbase:string/settings: t=0x03 d=0x000000eb (s=0x0008 r=0x00)
+          (string8) "设置"
+        resource 0x3c060026 com.salton123.sf.libbase:string/shop: t=0x03 d=0x000000ec (s=0x0008 r=0x00)
+          (string8) "商店"
+        resource 0x3c060027 com.salton123.sf.libbase:string/sign_in_success: t=0x03 d=0x000000ed (s=0x0008 r=0x00)
+          (string8) "登录成功,NavigationView的用户名已经更改!"
+        resource 0x3c060028 com.salton123.sf.libbase:string/start_cycler: t=0x03 d=0x000000ee (s=0x0008 r=0x00)
+          (string8) "启动CyclerFragment"
+        resource 0x3c060029 com.salton123.sf.libbase:string/start_result_test: t=0x03 d=0x000000ef (s=0x0008 r=0x00)
+          (string8) "测试startForResult"
+        resource 0x3c06002a com.salton123.sf.libbase:string/start_with_pop: t=0x03 d=0x000000f0 (s=0x0008 r=0x00)
+          (string8) "启动启动CyclerFragment，并关闭自己"
+        resource 0x3c06002b com.salton123.sf.libbase:string/swipe: t=0x03 d=0x000000f1 (s=0x0008 r=0x00)
+          (string8) "侧滑返回"
+        resource 0x3c06002c com.salton123.sf.libbase:string/swipe_back: t=0x03 d=0x000000f1 (s=0x0008 r=0x00)
+          (string8) "侧滑返回"
+        resource 0x3c06002d com.salton123.sf.libbase:string/system: t=0x03 d=0x000000f2 (s=0x0008 r=0x00)
+          (string8) "账户"
+        resource 0x3c06002e com.salton123.sf.libbase:string/time: t=0x03 d=0x000000f3 (s=0x0008 r=0x00)
+          (string8) "前天"
+        resource 0x3c06002f com.salton123.sf.libbase:string/tip_single_multi: t=0x03 d=0x000000f4 (s=0x0008 r=0x00)
+          (string8) "以下均为单Activity + 多Fragment:"
+        resource 0x3c060030 com.salton123.sf.libbase:string/upper_process: t=0x03 d=0x000000f5 (s=0x0008 r=0x00)
+          (string8) "传递给上层处理!"
+    type 6 configCount=3 entryCount=55
+      spec resource 0x3c070000 com.salton123.sf.libbase:dimen/design_navigation_max_width: flags=0x00002400
+      spec resource 0x3c070001 com.salton123.sf.libbase:dimen/design_snackbar_action_inline_max_width: flags=0x00002400
+      spec resource 0x3c070002 com.salton123.sf.libbase:dimen/design_snackbar_background_corner_radius: flags=0x00002400
+      spec resource 0x3c070003 com.salton123.sf.libbase:dimen/design_snackbar_extra_spacing_horizontal: flags=0x00002400
+      spec resource 0x3c070004 com.salton123.sf.libbase:dimen/design_snackbar_max_width: flags=0x00002400
+      spec resource 0x3c070005 com.salton123.sf.libbase:dimen/design_snackbar_min_width: flags=0x00002400
+      spec resource 0x3c070006 com.salton123.sf.libbase:dimen/design_snackbar_padding_vertical_2lines: flags=0x00002400
+      spec resource 0x3c070007 com.salton123.sf.libbase:dimen/design_tab_scrollable_min_width: flags=0x00002400
+      spec resource 0x3c070008 com.salton123.sf.libbase:dimen/activity_horizontal_margin: flags=0x00000600
+      spec resource 0x3c070009 com.salton123.sf.libbase:dimen/activity_vertical_margin: flags=0x00000000
+      spec resource 0x3c07000a com.salton123.sf.libbase:dimen/bottombar_height: flags=0x00000000
+      spec resource 0x3c07000b com.salton123.sf.libbase:dimen/bottombar_wechat_height: flags=0x00000000
+      spec resource 0x3c07000c com.salton123.sf.libbase:dimen/cardview_compat_inset_shadow: flags=0x00000000
+      spec resource 0x3c07000d com.salton123.sf.libbase:dimen/cardview_default_elevation: flags=0x00000000
+      spec resource 0x3c07000e com.salton123.sf.libbase:dimen/cardview_default_radius: flags=0x00000000
+      spec resource 0x3c07000f com.salton123.sf.libbase:dimen/design_appbar_elevation: flags=0x00000000
+      spec resource 0x3c070010 com.salton123.sf.libbase:dimen/design_bottom_navigation_active_item_max_width: flags=0x00000000
+      spec resource 0x3c070011 com.salton123.sf.libbase:dimen/design_bottom_navigation_active_text_size: flags=0x00000000
+      spec resource 0x3c070012 com.salton123.sf.libbase:dimen/design_bottom_navigation_elevation: flags=0x00000000
+      spec resource 0x3c070013 com.salton123.sf.libbase:dimen/design_bottom_navigation_height: flags=0x00000000
+      spec resource 0x3c070014 com.salton123.sf.libbase:dimen/design_bottom_navigation_item_max_width: flags=0x00000000
+      spec resource 0x3c070015 com.salton123.sf.libbase:dimen/design_bottom_navigation_item_min_width: flags=0x00000000
+      spec resource 0x3c070016 com.salton123.sf.libbase:dimen/design_bottom_navigation_margin: flags=0x00000000
+      spec resource 0x3c070017 com.salton123.sf.libbase:dimen/design_bottom_navigation_shadow_height: flags=0x00000000
+      spec resource 0x3c070018 com.salton123.sf.libbase:dimen/design_bottom_navigation_text_size: flags=0x00000000
+      spec resource 0x3c070019 com.salton123.sf.libbase:dimen/design_bottom_sheet_modal_elevation: flags=0x00000000
+      spec resource 0x3c07001a com.salton123.sf.libbase:dimen/design_bottom_sheet_peek_height_min: flags=0x00000000
+      spec resource 0x3c07001b com.salton123.sf.libbase:dimen/design_fab_border_width: flags=0x00000000
+      spec resource 0x3c07001c com.salton123.sf.libbase:dimen/design_fab_elevation: flags=0x00000000
+      spec resource 0x3c07001d com.salton123.sf.libbase:dimen/design_fab_image_size: flags=0x00000000
+      spec resource 0x3c07001e com.salton123.sf.libbase:dimen/design_fab_size_mini: flags=0x00000000
+      spec resource 0x3c07001f com.salton123.sf.libbase:dimen/design_fab_size_normal: flags=0x00000000
+      spec resource 0x3c070020 com.salton123.sf.libbase:dimen/design_fab_translation_z_pressed: flags=0x00000000
+      spec resource 0x3c070021 com.salton123.sf.libbase:dimen/design_navigation_elevation: flags=0x00000000
+      spec resource 0x3c070022 com.salton123.sf.libbase:dimen/design_navigation_icon_padding: flags=0x00000000
+      spec resource 0x3c070023 com.salton123.sf.libbase:dimen/design_navigation_icon_size: flags=0x00000000
+      spec resource 0x3c070024 com.salton123.sf.libbase:dimen/design_navigation_padding_bottom: flags=0x00000000
+      spec resource 0x3c070025 com.salton123.sf.libbase:dimen/design_navigation_separator_vertical_padding: flags=0x00000000
+      spec resource 0x3c070026 com.salton123.sf.libbase:dimen/design_snackbar_elevation: flags=0x00000000
+      spec resource 0x3c070027 com.salton123.sf.libbase:dimen/design_snackbar_padding_horizontal: flags=0x00000000
+      spec resource 0x3c070028 com.salton123.sf.libbase:dimen/design_snackbar_padding_vertical: flags=0x00000000
+      spec resource 0x3c070029 com.salton123.sf.libbase:dimen/design_snackbar_text_size: flags=0x00000000
+      spec resource 0x3c07002a com.salton123.sf.libbase:dimen/design_tab_max_width: flags=0x00000000
+      spec resource 0x3c07002b com.salton123.sf.libbase:dimen/design_tab_text_size: flags=0x00000000
+      spec resource 0x3c07002c com.salton123.sf.libbase:dimen/design_tab_text_size_2line: flags=0x00000000
+      spec resource 0x3c07002d com.salton123.sf.libbase:dimen/fab_margin: flags=0x00000000
+      spec resource 0x3c07002e com.salton123.sf.libbase:dimen/fastscroll_default_thickness: flags=0x00000000
+      spec resource 0x3c07002f com.salton123.sf.libbase:dimen/fastscroll_margin: flags=0x00000000
+      spec resource 0x3c070030 com.salton123.sf.libbase:dimen/fastscroll_minimum_range: flags=0x00000000
+      spec resource 0x3c070031 com.salton123.sf.libbase:dimen/item_touch_helper_max_drag_scroll_per_frame: flags=0x00000000
+      spec resource 0x3c070032 com.salton123.sf.libbase:dimen/item_touch_helper_swipe_escape_max_velocity: flags=0x00000000
+      spec resource 0x3c070033 com.salton123.sf.libbase:dimen/item_touch_helper_swipe_escape_velocity: flags=0x00000000
+      spec resource 0x3c070034 com.salton123.sf.libbase:dimen/nav_header_height: flags=0x00000000
+      spec resource 0x3c070035 com.salton123.sf.libbase:dimen/nav_header_vertical_spacing: flags=0x00000000
+      spec resource 0x3c070036 com.salton123.sf.libbase:dimen/text_margin: flags=0x00000000
+      config (default):
+        resource 0x3c070000 com.salton123.sf.libbase:dimen/design_navigation_max_width: t=0x05 d=0x00011801 (s=0x0008 r=0x00)
+          (dimension) 280.000000dp
+        resource 0x3c070001 com.salton123.sf.libbase:dimen/design_snackbar_action_inline_max_width: t=0x05 d=0x00008001 (s=0x0008 r=0x00)
+          (dimension) 128.000000dp
+        resource 0x3c070002 com.salton123.sf.libbase:dimen/design_snackbar_background_corner_radius: t=0x05 d=0x00000001 (s=0x0008 r=0x00)
+          (dimension) 0.000000dp
+        resource 0x3c070003 com.salton123.sf.libbase:dimen/design_snackbar_extra_spacing_horizontal: t=0x05 d=0x00000001 (s=0x0008 r=0x00)
+          (dimension) 0.000000dp
+        resource 0x3c070004 com.salton123.sf.libbase:dimen/design_snackbar_max_width: t=0x05 d=0xffffff00 (s=0x0008 r=0x00)
+          (dimension) 16777215.000000px
+        resource 0x3c070005 com.salton123.sf.libbase:dimen/design_snackbar_min_width: t=0x05 d=0xffffff00 (s=0x0008 r=0x00)
+          (dimension) 16777215.000000px
+        resource 0x3c070006 com.salton123.sf.libbase:dimen/design_snackbar_padding_vertical_2lines: t=0x05 d=0x00001801 (s=0x0008 r=0x00)
+          (dimension) 24.000000dp
+        resource 0x3c070007 com.salton123.sf.libbase:dimen/design_tab_scrollable_min_width: t=0x05 d=0x00004801 (s=0x0008 r=0x00)
+          (dimension) 72.000000dp
+        resource 0x3c070008 com.salton123.sf.libbase:dimen/activity_horizontal_margin: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+        resource 0x3c070009 com.salton123.sf.libbase:dimen/activity_vertical_margin: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+        resource 0x3c07000a com.salton123.sf.libbase:dimen/bottombar_height: t=0x05 d=0x00003001 (s=0x0008 r=0x00)
+          (dimension) 48.000000dp
+        resource 0x3c07000b com.salton123.sf.libbase:dimen/bottombar_wechat_height: t=0x05 d=0x00003401 (s=0x0008 r=0x00)
+          (dimension) 52.000000dp
+        resource 0x3c07000c com.salton123.sf.libbase:dimen/cardview_compat_inset_shadow: t=0x05 d=0x00000101 (s=0x0008 r=0x00)
+          (dimension) 1.000000dp
+        resource 0x3c07000d com.salton123.sf.libbase:dimen/cardview_default_elevation: t=0x05 d=0x00000201 (s=0x0008 r=0x00)
+          (dimension) 2.000000dp
+        resource 0x3c07000e com.salton123.sf.libbase:dimen/cardview_default_radius: t=0x05 d=0x00000201 (s=0x0008 r=0x00)
+          (dimension) 2.000000dp
+        resource 0x3c07000f com.salton123.sf.libbase:dimen/design_appbar_elevation: t=0x05 d=0x00000401 (s=0x0008 r=0x00)
+          (dimension) 4.000000dp
+        resource 0x3c070010 com.salton123.sf.libbase:dimen/design_bottom_navigation_active_item_max_width: t=0x05 d=0x0000a801 (s=0x0008 r=0x00)
+          (dimension) 168.000000dp
+        resource 0x3c070011 com.salton123.sf.libbase:dimen/design_bottom_navigation_active_text_size: t=0x05 d=0x00000e02 (s=0x0008 r=0x00)
+          (dimension) 14.000000sp
+        resource 0x3c070012 com.salton123.sf.libbase:dimen/design_bottom_navigation_elevation: t=0x05 d=0x00000801 (s=0x0008 r=0x00)
+          (dimension) 8.000000dp
+        resource 0x3c070013 com.salton123.sf.libbase:dimen/design_bottom_navigation_height: t=0x05 d=0x00003801 (s=0x0008 r=0x00)
+          (dimension) 56.000000dp
+        resource 0x3c070014 com.salton123.sf.libbase:dimen/design_bottom_navigation_item_max_width: t=0x05 d=0x00006001 (s=0x0008 r=0x00)
+          (dimension) 96.000000dp
+        resource 0x3c070015 com.salton123.sf.libbase:dimen/design_bottom_navigation_item_min_width: t=0x05 d=0x00003801 (s=0x0008 r=0x00)
+          (dimension) 56.000000dp
+        resource 0x3c070016 com.salton123.sf.libbase:dimen/design_bottom_navigation_margin: t=0x05 d=0x00000801 (s=0x0008 r=0x00)
+          (dimension) 8.000000dp
+        resource 0x3c070017 com.salton123.sf.libbase:dimen/design_bottom_navigation_shadow_height: t=0x05 d=0x00000101 (s=0x0008 r=0x00)
+          (dimension) 1.000000dp
+        resource 0x3c070018 com.salton123.sf.libbase:dimen/design_bottom_navigation_text_size: t=0x05 d=0x00000c02 (s=0x0008 r=0x00)
+          (dimension) 12.000000sp
+        resource 0x3c070019 com.salton123.sf.libbase:dimen/design_bottom_sheet_modal_elevation: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+        resource 0x3c07001a com.salton123.sf.libbase:dimen/design_bottom_sheet_peek_height_min: t=0x05 d=0x00004001 (s=0x0008 r=0x00)
+          (dimension) 64.000000dp
+        resource 0x3c07001b com.salton123.sf.libbase:dimen/design_fab_border_width: t=0x05 d=0x40000031 (s=0x0008 r=0x00)
+          (dimension) 0.500000dp
+        resource 0x3c07001c com.salton123.sf.libbase:dimen/design_fab_elevation: t=0x05 d=0x00000601 (s=0x0008 r=0x00)
+          (dimension) 6.000000dp
+        resource 0x3c07001d com.salton123.sf.libbase:dimen/design_fab_image_size: t=0x05 d=0x00001801 (s=0x0008 r=0x00)
+          (dimension) 24.000000dp
+        resource 0x3c07001e com.salton123.sf.libbase:dimen/design_fab_size_mini: t=0x05 d=0x00002801 (s=0x0008 r=0x00)
+          (dimension) 40.000000dp
+        resource 0x3c07001f com.salton123.sf.libbase:dimen/design_fab_size_normal: t=0x05 d=0x00003801 (s=0x0008 r=0x00)
+          (dimension) 56.000000dp
+        resource 0x3c070020 com.salton123.sf.libbase:dimen/design_fab_translation_z_pressed: t=0x05 d=0x00000601 (s=0x0008 r=0x00)
+          (dimension) 6.000000dp
+        resource 0x3c070021 com.salton123.sf.libbase:dimen/design_navigation_elevation: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+        resource 0x3c070022 com.salton123.sf.libbase:dimen/design_navigation_icon_padding: t=0x05 d=0x00002001 (s=0x0008 r=0x00)
+          (dimension) 32.000000dp
+        resource 0x3c070023 com.salton123.sf.libbase:dimen/design_navigation_icon_size: t=0x05 d=0x00001801 (s=0x0008 r=0x00)
+          (dimension) 24.000000dp
+        resource 0x3c070024 com.salton123.sf.libbase:dimen/design_navigation_padding_bottom: t=0x05 d=0x00000801 (s=0x0008 r=0x00)
+          (dimension) 8.000000dp
+        resource 0x3c070025 com.salton123.sf.libbase:dimen/design_navigation_separator_vertical_padding: t=0x05 d=0x00000801 (s=0x0008 r=0x00)
+          (dimension) 8.000000dp
+        resource 0x3c070026 com.salton123.sf.libbase:dimen/design_snackbar_elevation: t=0x05 d=0x00000601 (s=0x0008 r=0x00)
+          (dimension) 6.000000dp
+        resource 0x3c070027 com.salton123.sf.libbase:dimen/design_snackbar_padding_horizontal: t=0x05 d=0x00000c01 (s=0x0008 r=0x00)
+          (dimension) 12.000000dp
+        resource 0x3c070028 com.salton123.sf.libbase:dimen/design_snackbar_padding_vertical: t=0x05 d=0x00000e01 (s=0x0008 r=0x00)
+          (dimension) 14.000000dp
+        resource 0x3c070029 com.salton123.sf.libbase:dimen/design_snackbar_text_size: t=0x05 d=0x00000e02 (s=0x0008 r=0x00)
+          (dimension) 14.000000sp
+        resource 0x3c07002a com.salton123.sf.libbase:dimen/design_tab_max_width: t=0x05 d=0x00010801 (s=0x0008 r=0x00)
+          (dimension) 264.000000dp
+        resource 0x3c07002b com.salton123.sf.libbase:dimen/design_tab_text_size: t=0x05 d=0x00000e02 (s=0x0008 r=0x00)
+          (dimension) 14.000000sp
+        resource 0x3c07002c com.salton123.sf.libbase:dimen/design_tab_text_size_2line: t=0x05 d=0x00000c02 (s=0x0008 r=0x00)
+          (dimension) 12.000000sp
+        resource 0x3c07002d com.salton123.sf.libbase:dimen/fab_margin: t=0x05 d=0x00001801 (s=0x0008 r=0x00)
+          (dimension) 24.000000dp
+        resource 0x3c07002e com.salton123.sf.libbase:dimen/fastscroll_default_thickness: t=0x05 d=0x00000801 (s=0x0008 r=0x00)
+          (dimension) 8.000000dp
+        resource 0x3c07002f com.salton123.sf.libbase:dimen/fastscroll_margin: t=0x05 d=0x00000001 (s=0x0008 r=0x00)
+          (dimension) 0.000000dp
+        resource 0x3c070030 com.salton123.sf.libbase:dimen/fastscroll_minimum_range: t=0x05 d=0x00003201 (s=0x0008 r=0x00)
+          (dimension) 50.000000dp
+        resource 0x3c070031 com.salton123.sf.libbase:dimen/item_touch_helper_max_drag_scroll_per_frame: t=0x05 d=0x00001401 (s=0x0008 r=0x00)
+          (dimension) 20.000000dp
+        resource 0x3c070032 com.salton123.sf.libbase:dimen/item_touch_helper_swipe_escape_max_velocity: t=0x05 d=0x00032001 (s=0x0008 r=0x00)
+          (dimension) 800.000000dp
+        resource 0x3c070033 com.salton123.sf.libbase:dimen/item_touch_helper_swipe_escape_velocity: t=0x05 d=0x00007801 (s=0x0008 r=0x00)
+          (dimension) 120.000000dp
+        resource 0x3c070034 com.salton123.sf.libbase:dimen/nav_header_height: t=0x05 d=0x0000a001 (s=0x0008 r=0x00)
+          (dimension) 160.000000dp
+        resource 0x3c070035 com.salton123.sf.libbase:dimen/nav_header_vertical_spacing: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+        resource 0x3c070036 com.salton123.sf.libbase:dimen/text_margin: t=0x05 d=0x00001001 (s=0x0008 r=0x00)
+          (dimension) 16.000000dp
+      config w820dp-v13:
+        resource 0x3c070008 com.salton123.sf.libbase:dimen/activity_horizontal_margin: t=0x05 d=0x00004001 (s=0x0008 r=0x00)
+          (dimension) 64.000000dp
+      config sw600dp-v13:
+        resource 0x3c070000 com.salton123.sf.libbase:dimen/design_navigation_max_width: t=0x05 d=0x00014001 (s=0x0008 r=0x00)
+          (dimension) 320.000000dp
+        resource 0x3c070001 com.salton123.sf.libbase:dimen/design_snackbar_action_inline_max_width: t=0x05 d=0x00000001 (s=0x0008 r=0x00)
+          (dimension) 0.000000dp
+        resource 0x3c070002 com.salton123.sf.libbase:dimen/design_snackbar_background_corner_radius: t=0x05 d=0x00000201 (s=0x0008 r=0x00)
+          (dimension) 2.000000dp
+        resource 0x3c070003 com.salton123.sf.libbase:dimen/design_snackbar_extra_spacing_horizontal: t=0x05 d=0x00001801 (s=0x0008 r=0x00)
+          (dimension) 24.000000dp
+        resource 0x3c070004 com.salton123.sf.libbase:dimen/design_snackbar_max_width: t=0x05 d=0x00024001 (s=0x0008 r=0x00)
+          (dimension) 576.000000dp
+        resource 0x3c070005 com.salton123.sf.libbase:dimen/design_snackbar_min_width: t=0x05 d=0x00014001 (s=0x0008 r=0x00)
+          (dimension) 320.000000dp
+        resource 0x3c070006 com.salton123.sf.libbase:dimen/design_snackbar_padding_vertical_2lines: t=0x01 d=0x3c070028 (s=0x0008 r=0x00)
+          (reference) 0x3c070028
+        resource 0x3c070007 com.salton123.sf.libbase:dimen/design_tab_scrollable_min_width: t=0x05 d=0x0000a001 (s=0x0008 r=0x00)
+          (dimension) 160.000000dp
+    type 7 configCount=5 entryCount=42
+      spec resource 0x3c080000 com.salton123.sf.libbase:style/Widget.Design.TabLayout: flags=0x00002480
+      spec resource 0x3c080001 com.salton123.sf.libbase:style/AppTheme.NoActionBar.Main: flags=0x00000000
+      spec resource 0x3c080002 com.salton123.sf.libbase:style/Widget.Design.AppBarLayout: flags=0x00000400
+      spec resource 0x3c080003 com.salton123.sf.libbase:style/CardView: flags=0x00000400
+      spec resource 0x3c080004 com.salton123.sf.libbase:style/Animation.Design.BottomSheetDialog: flags=0x00000000
+      spec resource 0x3c080005 com.salton123.sf.libbase:style/AppTheme: flags=0x00000000
+      spec resource 0x3c080006 com.salton123.sf.libbase:style/AppTheme.AppBarOverlay: flags=0x00000000
+      spec resource 0x3c080007 com.salton123.sf.libbase:style/AppTheme.NoActionBar: flags=0x00000000
+      spec resource 0x3c080008 com.salton123.sf.libbase:style/AppTheme.NoActionBar.AppBarOverlay: flags=0x00000000
+      spec resource 0x3c080009 com.salton123.sf.libbase:style/AppTheme.NoActionBar.PopupOverlay: flags=0x00000000
+      spec resource 0x3c08000a com.salton123.sf.libbase:style/AppTheme.NoActionBar.SwipeBack: flags=0x00000000
+      spec resource 0x3c08000b com.salton123.sf.libbase:style/AppTheme.PopupOverlay: flags=0x00000000
+      spec resource 0x3c08000c com.salton123.sf.libbase:style/Base.CardView: flags=0x00000000
+      spec resource 0x3c08000d com.salton123.sf.libbase:style/Base.Widget.Design.AppBarLayout: flags=0x00000000
+      spec resource 0x3c08000e com.salton123.sf.libbase:style/Base.Widget.Design.TabLayout: flags=0x00000000
+      spec resource 0x3c08000f com.salton123.sf.libbase:style/CardView.Dark: flags=0x00000000
+      spec resource 0x3c080010 com.salton123.sf.libbase:style/CardView.Light: flags=0x00000000
+      spec resource 0x3c080011 com.salton123.sf.libbase:style/TextAppearance.Design.CollapsingToolbar.Expanded: flags=0x00000000
+      spec resource 0x3c080012 com.salton123.sf.libbase:style/TextAppearance.Design.Counter: flags=0x00000000
+      spec resource 0x3c080013 com.salton123.sf.libbase:style/TextAppearance.Design.Counter.Overflow: flags=0x00000000
+      spec resource 0x3c080014 com.salton123.sf.libbase:style/TextAppearance.Design.Error: flags=0x00000000
+      spec resource 0x3c080015 com.salton123.sf.libbase:style/TextAppearance.Design.Hint: flags=0x00000000
+      spec resource 0x3c080016 com.salton123.sf.libbase:style/TextAppearance.Design.Snackbar.Message: flags=0x00000000
+      spec resource 0x3c080017 com.salton123.sf.libbase:style/TextAppearance.Design.Tab: flags=0x00000000
+      spec resource 0x3c080018 com.salton123.sf.libbase:style/Theme.Design: flags=0x00000000
+      spec resource 0x3c080019 com.salton123.sf.libbase:style/Theme.Design.BottomSheetDialog: flags=0x00000000
+      spec resource 0x3c08001a com.salton123.sf.libbase:style/Theme.Design.Light: flags=0x00000000
+      spec resource 0x3c08001b com.salton123.sf.libbase:style/Theme.Design.Light.BottomSheetDialog: flags=0x00000000
+      spec resource 0x3c08001c com.salton123.sf.libbase:style/Theme.Design.Light.NoActionBar: flags=0x00000000
+      spec resource 0x3c08001d com.salton123.sf.libbase:style/Theme.Design.NoActionBar: flags=0x00000000
+      spec resource 0x3c08001e com.salton123.sf.libbase:style/Toolbar_TextAppearance_Expanded: flags=0x00000000
+      spec resource 0x3c08001f com.salton123.sf.libbase:style/Toolbar_TextAppearance_White: flags=0x00000000
+      spec resource 0x3c080020 com.salton123.sf.libbase:style/Widget.Design.BottomNavigationView: flags=0x00000000
+      spec resource 0x3c080021 com.salton123.sf.libbase:style/Widget.Design.BottomSheet.Modal: flags=0x00000400
+      spec resource 0x3c080022 com.salton123.sf.libbase:style/Widget.Design.CollapsingToolbar: flags=0x00000000
+      spec resource 0x3c080023 com.salton123.sf.libbase:style/Widget.Design.CoordinatorLayout: flags=0x00000000
+      spec resource 0x3c080024 com.salton123.sf.libbase:style/Widget.Design.FloatingActionButton: flags=0x00000000
+      spec resource 0x3c080025 com.salton123.sf.libbase:style/Widget.Design.NavigationView: flags=0x00000000
+      spec resource 0x3c080026 com.salton123.sf.libbase:style/Widget.Design.ScrimInsetsFrameLayout: flags=0x00000000
+      spec resource 0x3c080027 com.salton123.sf.libbase:style/Widget.Design.Snackbar: flags=0x00000000
+      spec resource 0x3c080028 com.salton123.sf.libbase:style/Widget.Design.TextInputLayout: flags=0x00000000
+      spec resource 0x3c080029 com.salton123.sf.libbase:style/tab_appearance: flags=0x00000000
+      config (default):
+        resource 0x3c080000 com.salton123.sf.libbase:style/Widget.Design.TabLayout: <bag>
+          Parent=0x3c08000e(Resolved=0x3c08000e), Count=2
+          #0 (Key=0x3c01004c): (color) #00000001
+          #1 (Key=0x3c01004d): (color) #00000000
+        resource 0x3c080002 com.salton123.sf.libbase:style/Widget.Design.AppBarLayout: <bag>
+          Parent=0x3c08000d(Resolved=0x3c08000d), Count=0
+        resource 0x3c080003 com.salton123.sf.libbase:style/CardView: <bag>
+          Parent=0x3c08000c(Resolved=0x3c08000c), Count=0
+        resource 0x3c080004 com.salton123.sf.libbase:style/Animation.Design.BottomSheetDialog: <bag>
+          Parent=0x7f0800a1(Resolved=0x7f0800a1), Count=2
+          #0 (Key=0x010100b4): (reference) 0x3c040000
+          #1 (Key=0x010100b5): (reference) 0x3c040001
+        resource 0x3c080005 com.salton123.sf.libbase:style/AppTheme: <bag>
+          Parent=0x7f08010a(Resolved=0x7f08010a), Count=3
+          #0 (Key=0x7f0100a9): (reference) 0x3c0a0007
+          #1 (Key=0x7f0100aa): (reference) 0x3c0a0008
+          #2 (Key=0x7f0100ab): (reference) 0x3c0a0006
+        resource 0x3c080006 com.salton123.sf.libbase:style/AppTheme.AppBarOverlay: <bag>
+          Parent=0x7f080114(Resolved=0x7f080114), Count=0
+        resource 0x3c080007 com.salton123.sf.libbase:style/AppTheme.NoActionBar: <bag>
+          Parent=0x3c080005(Resolved=0x3c080005), Count=3
+          #0 (Key=0x010102ef): (color) #00000000
+          #1 (Key=0x7f010058): (color) #00000000
+          #2 (Key=0x7f010059): (color) #ffffffff
+        resource 0x3c080008 com.salton123.sf.libbase:style/AppTheme.NoActionBar.AppBarOverlay: <bag>
+          Parent=0x7f080114(Resolved=0x7f080114), Count=0
+        resource 0x3c080009 com.salton123.sf.libbase:style/AppTheme.NoActionBar.PopupOverlay: <bag>
+          Parent=0x7f080117(Resolved=0x7f080117), Count=0
+        resource 0x3c08000a com.salton123.sf.libbase:style/AppTheme.NoActionBar.SwipeBack: <bag>
+          Parent=0x3c080007(Resolved=0x3c080007), Count=1
+          #0 (Key=0x01010058): (color) #ffffffff
+        resource 0x3c08000b com.salton123.sf.libbase:style/AppTheme.PopupOverlay: <bag>
+          Parent=0x7f080117(Resolved=0x7f080117), Count=0
+        resource 0x3c08000c com.salton123.sf.libbase:style/Base.CardView: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=5
+          #0 (Key=0x3c010009): (reference) 0x3c07000e
+          #1 (Key=0x3c01000a): (reference) 0x3c07000d
+          #2 (Key=0x3c01000b): (reference) 0x3c07000d
+          #3 (Key=0x3c01000c): (color) #00000000
+          #4 (Key=0x3c01000d): (color) #ffffffff
+        resource 0x3c08000d com.salton123.sf.libbase:style/Base.Widget.Design.AppBarLayout: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=1
+          #0 (Key=0x010100d4): (attribute) 0x7f010082
+        resource 0x3c08000e com.salton123.sf.libbase:style/Base.Widget.Design.TabLayout: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=8
+          #0 (Key=0x3c010048): (attribute) 0x7f010084
+          #1 (Key=0x3c010049): (dimension) 2.000000dp
+          #2 (Key=0x3c01004b): (attribute) 0x7f010064
+          #3 (Key=0x3c01004f): (reference) 0x3c07002a
+          #4 (Key=0x3c010050): (reference) 0x3c080017
+          #5 (Key=0x3c010052): (attribute) 0x01010036
+          #6 (Key=0x3c010053): (dimension) 12.000000dp
+          #7 (Key=0x3c010055): (dimension) 12.000000dp
+        resource 0x3c08000f com.salton123.sf.libbase:style/CardView.Dark: <bag>
+          Parent=0x3c080003(Resolved=0x3c080003), Count=1
+          #0 (Key=0x3c010008): (reference) 0x3c0a0002
+        resource 0x3c080010 com.salton123.sf.libbase:style/CardView.Light: <bag>
+          Parent=0x3c080003(Resolved=0x3c080003), Count=1
+          #0 (Key=0x3c010008): (reference) 0x3c0a0003
+        resource 0x3c080011 com.salton123.sf.libbase:style/TextAppearance.Design.CollapsingToolbar.Expanded: <bag>
+          Parent=0x7f0800d4(Resolved=0x7f0800d4), Count=1
+          #0 (Key=0x01010098): (attribute) 0x01010036
+        resource 0x3c080012 com.salton123.sf.libbase:style/TextAppearance.Design.Counter: <bag>
+          Parent=0x7f0800d3(Resolved=0x7f0800d3), Count=0
+        resource 0x3c080013 com.salton123.sf.libbase:style/TextAppearance.Design.Counter.Overflow: <bag>
+          Parent=0x7f0800d3(Resolved=0x7f0800d3), Count=1
+          #0 (Key=0x01010098): (reference) 0x3c0a0015
+        resource 0x3c080014 com.salton123.sf.libbase:style/TextAppearance.Design.Error: <bag>
+          Parent=0x7f0800d3(Resolved=0x7f0800d3), Count=1
+          #0 (Key=0x01010098): (reference) 0x3c0a0015
+        resource 0x3c080015 com.salton123.sf.libbase:style/TextAppearance.Design.Hint: <bag>
+          Parent=0x7f0800d3(Resolved=0x7f0800d3), Count=1
+          #0 (Key=0x01010098): (attribute) 0x7f010086
+        resource 0x3c080016 com.salton123.sf.libbase:style/TextAppearance.Design.Snackbar.Message: <bag>
+          Parent=0x0103003e(Resolved=0x0103003e), Count=2
+          #0 (Key=0x01010095): (reference) 0x3c070029
+          #1 (Key=0x01010098): (attribute) 0x01010036
+        resource 0x3c080017 com.salton123.sf.libbase:style/TextAppearance.Design.Tab: <bag>
+          Parent=0x7f0800d2(Resolved=0x7f0800d2), Count=3
+          #0 (Key=0x01010095): (reference) 0x3c07002b
+          #1 (Key=0x01010098): (attribute) 0x01010038
+          #2 (Key=0x7f010057): (color) #ffffffff
+        resource 0x3c080018 com.salton123.sf.libbase:style/Theme.Design: <bag>
+          Parent=0x7f080103(Resolved=0x7f080103), Count=1
+          #0 (Key=0x3c01002e): (reference) 0x3c0a0012
+        resource 0x3c080019 com.salton123.sf.libbase:style/Theme.Design.BottomSheetDialog: <bag>
+          Parent=0x7f080105(Resolved=0x7f080105), Count=3
+          #0 (Key=0x01010054): (reference) 0x0106000d
+          #1 (Key=0x010100ae): (reference) 0x3c080004
+          #2 (Key=0x3c01002d): (reference) 0x3c080021
+        resource 0x3c08001a com.salton123.sf.libbase:style/Theme.Design.Light: <bag>
+          Parent=0x7f080109(Resolved=0x7f080109), Count=1
+          #0 (Key=0x3c01002e): (reference) 0x3c0a0013
+        resource 0x3c08001b com.salton123.sf.libbase:style/Theme.Design.Light.BottomSheetDialog: <bag>
+          Parent=0x7f08010b(Resolved=0x7f08010b), Count=3
+          #0 (Key=0x01010054): (reference) 0x0106000d
+          #1 (Key=0x010100ae): (reference) 0x3c080004
+          #2 (Key=0x3c01002d): (reference) 0x3c080021
+        resource 0x3c08001c com.salton123.sf.libbase:style/Theme.Design.Light.NoActionBar: <bag>
+          Parent=0x3c08001a(Resolved=0x3c08001a), Count=2
+          #0 (Key=0x7f010058): (color) #00000000
+          #1 (Key=0x7f010059): (color) #ffffffff
+        resource 0x3c08001d com.salton123.sf.libbase:style/Theme.Design.NoActionBar: <bag>
+          Parent=0x3c080018(Resolved=0x3c080018), Count=2
+          #0 (Key=0x7f010058): (color) #00000000
+          #1 (Key=0x7f010059): (color) #ffffffff
+        resource 0x3c08001e com.salton123.sf.libbase:style/Toolbar_TextAppearance_Expanded: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=2
+          #0 (Key=0x01010095): (dimension) 24.000000sp
+          #1 (Key=0x01010098): (reference) 0x0106000b
+        resource 0x3c08001f com.salton123.sf.libbase:style/Toolbar_TextAppearance_White: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=2
+          #0 (Key=0x01010095): (dimension) 18.000000sp
+          #1 (Key=0x01010098): (reference) 0x0106000b
+        resource 0x3c080020 com.salton123.sf.libbase:style/Widget.Design.BottomNavigationView: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=2
+          #0 (Key=0x7f010048): (reference) 0x3c070012
+          #1 (Key=0x3c010039): (attribute) 0x7f010065
+        resource 0x3c080021 com.salton123.sf.libbase:style/Widget.Design.BottomSheet.Modal: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=4
+          #0 (Key=0x010100d4): (attribute) 0x01010031
+          #1 (Key=0x3c010005): (color) #ffffffff
+          #2 (Key=0x3c010006): (color) #ffffffff
+          #3 (Key=0x3c010007): (color) #00000000
+        resource 0x3c080022 com.salton123.sf.libbase:style/Widget.Design.CollapsingToolbar: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=2
+          #0 (Key=0x3c010013): (dimension) 32.000000dp
+          #1 (Key=0x3c01001b): (attribute) 0x7f010083
+        resource 0x3c080023 com.salton123.sf.libbase:style/Widget.Design.CoordinatorLayout: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=1
+          #0 (Key=0x3c010025): (attribute) 0x7f010083
+        resource 0x3c080024 com.salton123.sf.libbase:style/Widget.Design.FloatingActionButton: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=7
+          #0 (Key=0x010100d4): (reference) 0x3c02000b
+          #1 (Key=0x7f010048): (reference) 0x3c07001c
+          #2 (Key=0x3c01002f): (attribute) 0x7f010087
+          #3 (Key=0x3c010030): (color) #ffffffff
+          #4 (Key=0x3c010031): (reference) 0x3c070020
+          #5 (Key=0x3c010032): (reference) 0x3c07001b
+          #6 (Key=0x7f010110): (attribute) 0x7f010084
+        resource 0x3c080025 com.salton123.sf.libbase:style/Widget.Design.NavigationView: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=4
+          #0 (Key=0x010100d4): (attribute) 0x01010054
+          #1 (Key=0x010100dd): (color) #ffffffff
+          #2 (Key=0x0101011f): (reference) 0x3c070000
+          #3 (Key=0x7f010048): (reference) 0x3c070021
+        resource 0x3c080026 com.salton123.sf.libbase:style/Widget.Design.ScrimInsetsFrameLayout: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x3c010045): (color) #44000000
+        resource 0x3c080027 com.salton123.sf.libbase:style/Widget.Design.Snackbar: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=7
+          #0 (Key=0x010100d4): (reference) 0x3c02000f
+          #1 (Key=0x010100d6): (reference) 0x3c070027
+          #2 (Key=0x010100d8): (reference) 0x3c070027
+          #3 (Key=0x0101011f): (reference) 0x3c070004
+          #4 (Key=0x0101013f): (reference) 0x3c070005
+          #5 (Key=0x7f010048): (reference) 0x3c070026
+          #6 (Key=0x3c010047): (reference) 0x3c070001
+        resource 0x3c080028 com.salton123.sf.libbase:style/Widget.Design.TextInputLayout: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=7
+          #0 (Key=0x3c010058): (reference) 0x3c080015
+          #1 (Key=0x3c01005b): (reference) 0x3c080014
+          #2 (Key=0x3c01005e): (reference) 0x3c080012
+          #3 (Key=0x3c01005f): (reference) 0x3c080013
+          #4 (Key=0x3c010062): (reference) 0x3c02000e
+          #5 (Key=0x3c010063): (reference) 0x3c060034
+          #6 (Key=0x3c010064): (reference) 0x3c0a0016
+        resource 0x3c080029 com.salton123.sf.libbase:style/tab_appearance: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=1
+          #0 (Key=0x01010095): (dimension) 16.000000sp
+      config sw600dp-v13:
+        resource 0x3c080000 com.salton123.sf.libbase:style/Widget.Design.TabLayout: <bag>
+          Parent=0x3c08000e(Resolved=0x3c08000e), Count=2
+          #0 (Key=0x3c01004c): (color) #00000001
+          #1 (Key=0x3c01004d): (color) #00000001
+      config v21:
+        resource 0x3c080001 com.salton123.sf.libbase:style/AppTheme.NoActionBar.Main: <bag>
+          Parent=0x3c080007(Resolved=0x3c080007), Count=4
+          #0 (Key=0x01010450): (color) #ffffffff
+          #1 (Key=0x01010451): (reference) 0x0106000d
+          #2 (Key=0x7f010058): (color) #00000000
+          #3 (Key=0x7f010059): (color) #ffffffff
+        resource 0x3c080002 com.salton123.sf.libbase:style/Widget.Design.AppBarLayout: <bag>
+          Parent=0x3c08000d(Resolved=0x3c08000d), Count=1
+          #0 (Key=0x01010448): (reference) 0x3c050000
+        resource 0x3c080021 com.salton123.sf.libbase:style/Widget.Design.BottomSheet.Modal: <bag>
+          Parent=0x01030012(Resolved=0x01030012), Count=5
+          #0 (Key=0x010100d4): (attribute) 0x01010031
+          #1 (Key=0x01010440): (reference) 0x3c070019
+          #2 (Key=0x3c010005): (color) #ffffffff
+          #3 (Key=0x3c010006): (color) #ffffffff
+          #4 (Key=0x3c010007): (color) #00000000
+      config v23:
+        resource 0x3c080003 com.salton123.sf.libbase:style/CardView: <bag>
+          Parent=0x3c08000c(Resolved=0x3c08000c), Count=1
+          #0 (Key=0x3c010008): (attribute) 0x010104e2
+      config land:
+        resource 0x3c080000 com.salton123.sf.libbase:style/Widget.Design.TabLayout: <bag>
+          Parent=0x3c08000e(Resolved=0x3c08000e), Count=2
+          #0 (Key=0x3c01004c): (color) #00000001
+          #1 (Key=0x3c01004d): (color) #00000001
+    type 8 configCount=2 entryCount=5
+      spec resource 0x3c090000 com.salton123.sf.libbase:integer/design_snackbar_text_max_lines: flags=0x00002400
+      spec resource 0x3c090001 com.salton123.sf.libbase:integer/app_bar_elevation_anim_duration: flags=0x00000000
+      spec resource 0x3c090002 com.salton123.sf.libbase:integer/bottom_sheet_slide_duration: flags=0x00000000
+      spec resource 0x3c090003 com.salton123.sf.libbase:integer/hide_password_duration: flags=0x00000000
+      spec resource 0x3c090004 com.salton123.sf.libbase:integer/show_password_duration: flags=0x00000000
+      config (default):
+        resource 0x3c090000 com.salton123.sf.libbase:integer/design_snackbar_text_max_lines: t=0x10 d=0x00000002 (s=0x0008 r=0x00)
+          (color) #00000002
+        resource 0x3c090001 com.salton123.sf.libbase:integer/app_bar_elevation_anim_duration: t=0x10 d=0x00000096 (s=0x0008 r=0x00)
+          (color) #00000096
+        resource 0x3c090002 com.salton123.sf.libbase:integer/bottom_sheet_slide_duration: t=0x10 d=0x00000096 (s=0x0008 r=0x00)
+          (color) #00000096
+        resource 0x3c090003 com.salton123.sf.libbase:integer/hide_password_duration: t=0x10 d=0x00000140 (s=0x0008 r=0x00)
+          (color) #00000140
+        resource 0x3c090004 com.salton123.sf.libbase:integer/show_password_duration: t=0x10 d=0x000000c8 (s=0x0008 r=0x00)
+          (color) #000000c8
+      config sw600dp-v13:
+        resource 0x3c090000 com.salton123.sf.libbase:integer/design_snackbar_text_max_lines: t=0x10 d=0x00000001 (s=0x0008 r=0x00)
+          (color) #00000001
+    type 9 configCount=2 entryCount=23
+      spec resource 0x3c0a0000 com.salton123.sf.libbase:color/bg_app: flags=0x00000000
+      spec resource 0x3c0a0001 com.salton123.sf.libbase:color/bg_btn: flags=0x00000000
+      spec resource 0x3c0a0002 com.salton123.sf.libbase:color/cardview_dark_background: flags=0x00000000
+      spec resource 0x3c0a0003 com.salton123.sf.libbase:color/cardview_light_background: flags=0x00000000
+      spec resource 0x3c0a0004 com.salton123.sf.libbase:color/cardview_shadow_end_color: flags=0x00000000
+      spec resource 0x3c0a0005 com.salton123.sf.libbase:color/cardview_shadow_start_color: flags=0x00000000
+      spec resource 0x3c0a0006 com.salton123.sf.libbase:color/colorAccent: flags=0x00000000
+      spec resource 0x3c0a0007 com.salton123.sf.libbase:color/colorPrimary: flags=0x00000000
+      spec resource 0x3c0a0008 com.salton123.sf.libbase:color/colorPrimaryDark: flags=0x00000000
+      spec resource 0x3c0a0009 com.salton123.sf.libbase:color/design_bottom_navigation_shadow_color: flags=0x00000000
+      spec resource 0x3c0a000a com.salton123.sf.libbase:color/design_fab_shadow_end_color: flags=0x00000000
+      spec resource 0x3c0a000b com.salton123.sf.libbase:color/design_fab_shadow_mid_color: flags=0x00000000
+      spec resource 0x3c0a000c com.salton123.sf.libbase:color/design_fab_shadow_start_color: flags=0x00000000
+      spec resource 0x3c0a000d com.salton123.sf.libbase:color/design_fab_stroke_end_inner_color: flags=0x00000000
+      spec resource 0x3c0a000e com.salton123.sf.libbase:color/design_fab_stroke_end_outer_color: flags=0x00000000
+      spec resource 0x3c0a000f com.salton123.sf.libbase:color/design_fab_stroke_top_inner_color: flags=0x00000000
+      spec resource 0x3c0a0010 com.salton123.sf.libbase:color/design_fab_stroke_top_outer_color: flags=0x00000000
+      spec resource 0x3c0a0011 com.salton123.sf.libbase:color/design_snackbar_background_color: flags=0x00000000
+      spec resource 0x3c0a0012 com.salton123.sf.libbase:color/design_textinput_error_color_dark: flags=0x00000000
+      spec resource 0x3c0a0013 com.salton123.sf.libbase:color/design_textinput_error_color_light: flags=0x00000000
+      spec resource 0x3c0a0014 com.salton123.sf.libbase:color/tab_unselect: flags=0x00000000
+      spec resource 0x3c0a0015 com.salton123.sf.libbase:color/design_error: flags=0x00000000
+      spec resource 0x3c0a0016 com.salton123.sf.libbase:color/design_tint_password_toggle: flags=0x00000400
+      config (default):
+        resource 0x3c0a0000 com.salton123.sf.libbase:color/bg_app: t=0x1d d=0xfff1f1f1 (s=0x0008 r=0x00)
+          (color) #fff1f1f1
+        resource 0x3c0a0001 com.salton123.sf.libbase:color/bg_btn: t=0x1d d=0xffdadada (s=0x0008 r=0x00)
+          (color) #ffdadada
+        resource 0x3c0a0002 com.salton123.sf.libbase:color/cardview_dark_background: t=0x1c d=0xff424242 (s=0x0008 r=0x00)
+          (color) #ff424242
+        resource 0x3c0a0003 com.salton123.sf.libbase:color/cardview_light_background: t=0x1c d=0xffffffff (s=0x0008 r=0x00)
+          (color) #ffffffff
+        resource 0x3c0a0004 com.salton123.sf.libbase:color/cardview_shadow_end_color: t=0x1c d=0x03000000 (s=0x0008 r=0x00)
+          (color) #03000000
+        resource 0x3c0a0005 com.salton123.sf.libbase:color/cardview_shadow_start_color: t=0x1c d=0x37000000 (s=0x0008 r=0x00)
+          (color) #37000000
+        resource 0x3c0a0006 com.salton123.sf.libbase:color/colorAccent: t=0x1d d=0xff536dfe (s=0x0008 r=0x00)
+          (color) #ff536dfe
+        resource 0x3c0a0007 com.salton123.sf.libbase:color/colorPrimary: t=0x1d d=0xfff44336 (s=0x0008 r=0x00)
+          (color) #fff44336
+        resource 0x3c0a0008 com.salton123.sf.libbase:color/colorPrimaryDark: t=0x1d d=0xffd32f2f (s=0x0008 r=0x00)
+          (color) #ffd32f2f
+        resource 0x3c0a0009 com.salton123.sf.libbase:color/design_bottom_navigation_shadow_color: t=0x1c d=0x14000000 (s=0x0008 r=0x00)
+          (color) #14000000
+        resource 0x3c0a000a com.salton123.sf.libbase:color/design_fab_shadow_end_color: t=0x01 d=0x0106000d (s=0x0008 r=0x00)
+          (reference) 0x0106000d
+        resource 0x3c0a000b com.salton123.sf.libbase:color/design_fab_shadow_mid_color: t=0x1c d=0x14000000 (s=0x0008 r=0x00)
+          (color) #14000000
+        resource 0x3c0a000c com.salton123.sf.libbase:color/design_fab_shadow_start_color: t=0x1c d=0x44000000 (s=0x0008 r=0x00)
+          (color) #44000000
+        resource 0x3c0a000d com.salton123.sf.libbase:color/design_fab_stroke_end_inner_color: t=0x1c d=0x0a000000 (s=0x0008 r=0x00)
+          (color) #0a000000
+        resource 0x3c0a000e com.salton123.sf.libbase:color/design_fab_stroke_end_outer_color: t=0x1c d=0x0f000000 (s=0x0008 r=0x00)
+          (color) #0f000000
+        resource 0x3c0a000f com.salton123.sf.libbase:color/design_fab_stroke_top_inner_color: t=0x1c d=0x1affffff (s=0x0008 r=0x00)
+          (color) #1affffff
+        resource 0x3c0a0010 com.salton123.sf.libbase:color/design_fab_stroke_top_outer_color: t=0x1c d=0x2effffff (s=0x0008 r=0x00)
+          (color) #2effffff
+        resource 0x3c0a0011 com.salton123.sf.libbase:color/design_snackbar_background_color: t=0x1d d=0xff323232 (s=0x0008 r=0x00)
+          (color) #ff323232
+        resource 0x3c0a0012 com.salton123.sf.libbase:color/design_textinput_error_color_dark: t=0x1c d=0xffff6e6e (s=0x0008 r=0x00)
+          (color) #ffff6e6e
+        resource 0x3c0a0013 com.salton123.sf.libbase:color/design_textinput_error_color_light: t=0x1c d=0xffd50000 (s=0x0008 r=0x00)
+          (color) #ffd50000
+        resource 0x3c0a0014 com.salton123.sf.libbase:color/tab_unselect: t=0x1d d=0xffc9c9c9 (s=0x0008 r=0x00)
+          (color) #ffc9c9c9
+        resource 0x3c0a0015 com.salton123.sf.libbase:color/design_error: t=0x03 d=0x000000f6 (s=0x0008 r=0x00)
+          (string8) "res/color/design_error.xml"
+        resource 0x3c0a0016 com.salton123.sf.libbase:color/design_tint_password_toggle: t=0x03 d=0x000000f7 (s=0x0008 r=0x00)
+          (string8) "res/color/design_tint_password_toggle.xml"
+      config v23:
+        resource 0x3c0a0016 com.salton123.sf.libbase:color/design_tint_password_toggle: t=0x03 d=0x000000f8 (s=0x0008 r=0x00)
+          (string8) "res/color-v23/design_tint_password_toggle.xml"
+    type 10 configCount=2 entryCount=3
+      spec resource 0x3c0b0000 com.salton123.sf.libbase:array/array_content: flags=0x00000004
+      spec resource 0x3c0b0001 com.salton123.sf.libbase:array/array_menu: flags=0x00000004
+      spec resource 0x3c0b0002 com.salton123.sf.libbase:array/array_title: flags=0x00000004
+      config (default):
+        resource 0x3c0b0000 com.salton123.sf.libbase:array/array_content: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x02000000): (string8) "An early look at the next version of Android for testing, development, and feedback. Get your apps ready for Android O!"
+          #1 (Key=0x02000001): (string8) "Android runs on billions of handheld devices around the world, and it now supports these exciting, new form-factors."
+          #2 (Key=0x02000002): (string8) "Resources to get you started with designing and developing for Android."
+        resource 0x3c0b0001 com.salton123.sf.libbase:array/array_menu: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=15
+          #0 (Key=0x02000000): (string8) "Ranking"
+          #1 (Key=0x02000001): (string8) "Menu1"
+          #2 (Key=0x02000002): (string8) "Menu2"
+          #3 (Key=0x02000003): (string8) "Menu3"
+          #4 (Key=0x02000004): (string8) "Menu4"
+          #5 (Key=0x02000005): (string8) "Menu5"
+          #6 (Key=0x02000006): (string8) "Menu6"
+          #7 (Key=0x02000007): (string8) "Menu7"
+          #8 (Key=0x02000008): (string8) "Menu8"
+          #9 (Key=0x02000009): (string8) "Menu9"
+          #10 (Key=0x0200000a): (string8) "Menu10"
+          #11 (Key=0x0200000b): (string8) "Menu11"
+          #12 (Key=0x0200000c): (string8) "Menu12"
+          #13 (Key=0x0200000d): (string8) "Menu13"
+          #14 (Key=0x0200000e): (string8) "Menu14"
+        resource 0x3c0b0002 com.salton123.sf.libbase:array/array_title: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x02000000): (string8) "Andorid O Developer Preview"
+          #1 (Key=0x02000001): (string8) "Build for a Multi-Screen World"
+          #2 (Key=0x02000002): (string8) "Build Beautiful Apps"
+      config zh:
+        resource 0x3c0b0000 com.salton123.sf.libbase:array/array_content: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x02000000): (string8) "An early look at the next version of Android for testing, development, and feedback. Get your apps ready for Android O!"
+          #1 (Key=0x02000001): (string8) "Android runs on billions of handheld devices around the world, and it now supports these exciting, new form-factors."
+          #2 (Key=0x02000002): (string8) "Resources to get you started with designing and developing for Android."
+        resource 0x3c0b0001 com.salton123.sf.libbase:array/array_menu: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=15
+          #0 (Key=0x02000000): (string8) "销量排行"
+          #1 (Key=0x02000001): (string8) "炒菜"
+          #2 (Key=0x02000002): (string8) "汤面类"
+          #3 (Key=0x02000003): (string8) "煲类"
+          #4 (Key=0x02000004): (string8) "汤"
+          #5 (Key=0x02000005): (string8) "小菜"
+          #6 (Key=0x02000006): (string8) "酒水饮料"
+          #7 (Key=0x02000007): (string8) "盖浇饭类"
+          #8 (Key=0x02000008): (string8) "炒面类"
+          #9 (Key=0x02000009): (string8) "拉面类"
+          #10 (Key=0x0200000a): (string8) "盖浇面类"
+          #11 (Key=0x0200000b): (string8) "特色菜"
+          #12 (Key=0x0200000c): (string8) "加料"
+          #13 (Key=0x0200000d): (string8) "馄饨类"
+          #14 (Key=0x0200000e): (string8) "其他"
+        resource 0x3c0b0002 com.salton123.sf.libbase:array/array_title: <bag>
+          Parent=0x00000000(Resolved=0x3c000000), Count=3
+          #0 (Key=0x02000000): (string8) "Andorid O Developer Preview"
+          #1 (Key=0x02000001): (string8) "Build for a Multi-Screen World"
+          #2 (Key=0x02000002): (string8) "Build Beautiful Apps"
+    type 11 configCount=1 entryCount=104
+      spec resource 0x3c0c0000 com.salton123.sf.libbase:id/hierarchy: flags=0x00000000
+      spec resource 0x3c0c0001 com.salton123.sf.libbase:id/isexpand: flags=0x00000000
+      spec resource 0x3c0c0002 com.salton123.sf.libbase:id/item_touch_helper_previous_elevation: flags=0x00000000
+      spec resource 0x3c0c0003 com.salton123.sf.libbase:id/textinput_counter: flags=0x00000000
+      spec resource 0x3c0c0004 com.salton123.sf.libbase:id/textinput_error: flags=0x00000000
+      spec resource 0x3c0c0005 com.salton123.sf.libbase:id/transition_current_scene: flags=0x00000000
+      spec resource 0x3c0c0006 com.salton123.sf.libbase:id/transition_layout_save: flags=0x00000000
+      spec resource 0x3c0c0007 com.salton123.sf.libbase:id/transition_scene_layoutid_cache: flags=0x00000000
+      spec resource 0x3c0c0008 com.salton123.sf.libbase:id/view_offset_helper: flags=0x00000000
+      spec resource 0x3c0c0009 com.salton123.sf.libbase:id/enterAlways: flags=0x00000000
+      spec resource 0x3c0c000a com.salton123.sf.libbase:id/enterAlwaysCollapsed: flags=0x00000000
+      spec resource 0x3c0c000b com.salton123.sf.libbase:id/exitUntilCollapsed: flags=0x00000000
+      spec resource 0x3c0c000c com.salton123.sf.libbase:id/scroll: flags=0x00000000
+      spec resource 0x3c0c000d com.salton123.sf.libbase:id/snap: flags=0x00000000
+      spec resource 0x3c0c000e com.salton123.sf.libbase:id/auto: flags=0x00000000
+      spec resource 0x3c0c000f com.salton123.sf.libbase:id/center: flags=0x00000000
+      spec resource 0x3c0c0010 com.salton123.sf.libbase:id/center_horizontal: flags=0x00000000
+      spec resource 0x3c0c0011 com.salton123.sf.libbase:id/center_vertical: flags=0x00000000
+      spec resource 0x3c0c0012 com.salton123.sf.libbase:id/fill_vertical: flags=0x00000000
+      spec resource 0x3c0c0013 com.salton123.sf.libbase:id/left: flags=0x00000000
+      spec resource 0x3c0c0014 com.salton123.sf.libbase:id/right: flags=0x00000000
+      spec resource 0x3c0c0015 com.salton123.sf.libbase:id/start: flags=0x00000000
+      spec resource 0x3c0c0016 com.salton123.sf.libbase:id/parallax: flags=0x00000000
+      spec resource 0x3c0c0017 com.salton123.sf.libbase:id/pin: flags=0x00000000
+      spec resource 0x3c0c0018 com.salton123.sf.libbase:id/clip_horizontal: flags=0x00000000
+      spec resource 0x3c0c0019 com.salton123.sf.libbase:id/clip_vertical: flags=0x00000000
+      spec resource 0x3c0c001a com.salton123.sf.libbase:id/fill: flags=0x00000000
+      spec resource 0x3c0c001b com.salton123.sf.libbase:id/fill_horizontal: flags=0x00000000
+      spec resource 0x3c0c001c com.salton123.sf.libbase:id/mini: flags=0x00000000
+      spec resource 0x3c0c001d com.salton123.sf.libbase:id/fixed: flags=0x00000000
+      spec resource 0x3c0c001e com.salton123.sf.libbase:id/scrollable: flags=0x00000000
+      spec resource 0x3c0c001f com.salton123.sf.libbase:id/btn_flow: flags=0x00000000
+      spec resource 0x3c0c0020 com.salton123.sf.libbase:id/btn_wechat: flags=0x00000000
+      spec resource 0x3c0c0021 com.salton123.sf.libbase:id/btn_zhihu: flags=0x00000000
+      spec resource 0x3c0c0022 com.salton123.sf.libbase:id/ll_root: flags=0x00000000
+      spec resource 0x3c0c0023 com.salton123.sf.libbase:id/fl_container: flags=0x00000000
+      spec resource 0x3c0c0024 com.salton123.sf.libbase:id/tv_content: flags=0x00000000
+      spec resource 0x3c0c0025 com.salton123.sf.libbase:id/smallLabel: flags=0x00000000
+      spec resource 0x3c0c0026 com.salton123.sf.libbase:id/largeLabel: flags=0x00000000
+      spec resource 0x3c0c0027 com.salton123.sf.libbase:id/touch_outside: flags=0x00000000
+      spec resource 0x3c0c0028 com.salton123.sf.libbase:id/design_bottom_sheet: flags=0x00000000
+      spec resource 0x3c0c0029 com.salton123.sf.libbase:id/snackbar_text: flags=0x00000000
+      spec resource 0x3c0c002a com.salton123.sf.libbase:id/snackbar_action: flags=0x00000000
+      spec resource 0x3c0c002b com.salton123.sf.libbase:id/navigation_header_container: flags=0x00000000
+      spec resource 0x3c0c002c com.salton123.sf.libbase:id/design_navigation_view: flags=0x00000000
+      spec resource 0x3c0c002d com.salton123.sf.libbase:id/design_menu_item_text: flags=0x00000000
+      spec resource 0x3c0c002e com.salton123.sf.libbase:id/design_menu_item_action_area_stub: flags=0x00000000
+      spec resource 0x3c0c002f com.salton123.sf.libbase:id/design_menu_item_action_area: flags=0x00000000
+      spec resource 0x3c0c0030 com.salton123.sf.libbase:id/text_input_password_toggle: flags=0x00000000
+      spec resource 0x3c0c0031 com.salton123.sf.libbase:id/btn_next: flags=0x00000000
+      spec resource 0x3c0c0032 com.salton123.sf.libbase:id/tv_name: flags=0x00000000
+      spec resource 0x3c0c0033 com.salton123.sf.libbase:id/btn_next_with_finish: flags=0x00000000
+      spec resource 0x3c0c0034 com.salton123.sf.libbase:id/coord: flags=0x00000000
+      spec resource 0x3c0c0035 com.salton123.sf.libbase:id/fab: flags=0x00000000
+      spec resource 0x3c0c0036 com.salton123.sf.libbase:id/toolbar: flags=0x00000000
+      spec resource 0x3c0c0037 com.salton123.sf.libbase:id/tab_layout: flags=0x00000000
+      spec resource 0x3c0c0038 com.salton123.sf.libbase:id/viewPager: flags=0x00000000
+      spec resource 0x3c0c0039 com.salton123.sf.libbase:id/recy: flags=0x00000000
+      spec resource 0x3c0c003a com.salton123.sf.libbase:id/et_account: flags=0x00000000
+      spec resource 0x3c0c003b com.salton123.sf.libbase:id/et_password: flags=0x00000000
+      spec resource 0x3c0c003c com.salton123.sf.libbase:id/login: flags=0x00000000
+      spec resource 0x3c0c003d com.salton123.sf.libbase:id/btn_register: flags=0x00000000
+      spec resource 0x3c0c003e com.salton123.sf.libbase:id/btn_login: flags=0x00000000
+      spec resource 0x3c0c003f com.salton123.sf.libbase:id/et_modify_title: flags=0x00000000
+      spec resource 0x3c0c0040 com.salton123.sf.libbase:id/btn_modify: flags=0x00000000
+      spec resource 0x3c0c0041 com.salton123.sf.libbase:id/et_password_confirm: flags=0x00000000
+      spec resource 0x3c0c0042 com.salton123.sf.libbase:id/fl_list_container: flags=0x00000000
+      spec resource 0x3c0c0043 com.salton123.sf.libbase:id/fl_content_container: flags=0x00000000
+      spec resource 0x3c0c0044 com.salton123.sf.libbase:id/tv: flags=0x00000000
+      spec resource 0x3c0c0045 com.salton123.sf.libbase:id/btn: flags=0x00000000
+      spec resource 0x3c0c0046 com.salton123.sf.libbase:id/tv_title: flags=0x00000000
+      spec resource 0x3c0c0047 com.salton123.sf.libbase:id/view_line: flags=0x00000000
+      spec resource 0x3c0c0048 com.salton123.sf.libbase:id/img_avatar: flags=0x00000000
+      spec resource 0x3c0c0049 com.salton123.sf.libbase:id/tv_msg: flags=0x00000000
+      spec resource 0x3c0c004a com.salton123.sf.libbase:id/tv_time: flags=0x00000000
+      spec resource 0x3c0c004b com.salton123.sf.libbase:id/img: flags=0x00000000
+      spec resource 0x3c0c004c com.salton123.sf.libbase:id/ll_nav_header: flags=0x00000000
+      spec resource 0x3c0c004d com.salton123.sf.libbase:id/img_nav: flags=0x00000000
+      spec resource 0x3c0c004e com.salton123.sf.libbase:id/textView: flags=0x00000000
+      spec resource 0x3c0c004f com.salton123.sf.libbase:id/fl_tab_container: flags=0x00000000
+      spec resource 0x3c0c0050 com.salton123.sf.libbase:id/bottomBar: flags=0x00000000
+      spec resource 0x3c0c0051 com.salton123.sf.libbase:id/btn_start: flags=0x00000000
+      spec resource 0x3c0c0052 com.salton123.sf.libbase:id/btn_start_dont_hide: flags=0x00000000
+      spec resource 0x3c0c0053 com.salton123.sf.libbase:id/refresh_layout: flags=0x00000000
+      spec resource 0x3c0c0054 com.salton123.sf.libbase:id/et_send: flags=0x00000000
+      spec resource 0x3c0c0055 com.salton123.sf.libbase:id/btn_send: flags=0x00000000
+      spec resource 0x3c0c0056 com.salton123.sf.libbase:id/tab: flags=0x00000000
+      spec resource 0x3c0c0057 com.salton123.sf.libbase:id/fl_fourth_container_upper: flags=0x00000000
+      spec resource 0x3c0c0058 com.salton123.sf.libbase:id/fl_fourth_container_lower: flags=0x00000000
+      spec resource 0x3c0c0059 com.salton123.sf.libbase:id/tv_btn_settings: flags=0x00000000
+      spec resource 0x3c0c005a com.salton123.sf.libbase:id/toolbarSettings: flags=0x00000000
+      spec resource 0x3c0c005b com.salton123.sf.libbase:id/fl_second_container: flags=0x00000000
+      spec resource 0x3c0c005c com.salton123.sf.libbase:id/fl_third_container: flags=0x00000000
+      spec resource 0x3c0c005d com.salton123.sf.libbase:id/visible: flags=0x00000000
+      spec resource 0x3c0c005e com.salton123.sf.libbase:id/masked: flags=0x00000000
+      spec resource 0x3c0c005f com.salton123.sf.libbase:id/nav_home: flags=0x00000000
+      spec resource 0x3c0c0060 com.salton123.sf.libbase:id/nav_discover: flags=0x00000000
+      spec resource 0x3c0c0061 com.salton123.sf.libbase:id/nav_msg: flags=0x00000000
+      spec resource 0x3c0c0062 com.salton123.sf.libbase:id/nav_login: flags=0x00000000
+      spec resource 0x3c0c0063 com.salton123.sf.libbase:id/nav_swipe_back: flags=0x00000000
+      spec resource 0x3c0c0064 com.salton123.sf.libbase:id/action_anim: flags=0x00000000
+      spec resource 0x3c0c0065 com.salton123.sf.libbase:id/action_anim_veritical: flags=0x00000000
+      spec resource 0x3c0c0066 com.salton123.sf.libbase:id/action_anim_horizontal: flags=0x00000000
+      spec resource 0x3c0c0067 com.salton123.sf.libbase:id/action_anim_none: flags=0x00000000
+      config (default):
+        resource 0x3c0c0000 com.salton123.sf.libbase:id/hierarchy: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0001 com.salton123.sf.libbase:id/isexpand: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0002 com.salton123.sf.libbase:id/item_touch_helper_previous_elevation: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0003 com.salton123.sf.libbase:id/textinput_counter: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0004 com.salton123.sf.libbase:id/textinput_error: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0005 com.salton123.sf.libbase:id/transition_current_scene: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0006 com.salton123.sf.libbase:id/transition_layout_save: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0007 com.salton123.sf.libbase:id/transition_scene_layoutid_cache: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0008 com.salton123.sf.libbase:id/view_offset_helper: t=0x03 d=0x0000011d (s=0x0008 r=0x00)
+          (string8) ""
+        resource 0x3c0c0009 com.salton123.sf.libbase:id/enterAlways: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000a com.salton123.sf.libbase:id/enterAlwaysCollapsed: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000b com.salton123.sf.libbase:id/exitUntilCollapsed: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000c com.salton123.sf.libbase:id/scroll: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000d com.salton123.sf.libbase:id/snap: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000e com.salton123.sf.libbase:id/auto: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c000f com.salton123.sf.libbase:id/center: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0010 com.salton123.sf.libbase:id/center_horizontal: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0011 com.salton123.sf.libbase:id/center_vertical: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0012 com.salton123.sf.libbase:id/fill_vertical: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0013 com.salton123.sf.libbase:id/left: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0014 com.salton123.sf.libbase:id/right: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0015 com.salton123.sf.libbase:id/start: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0016 com.salton123.sf.libbase:id/parallax: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0017 com.salton123.sf.libbase:id/pin: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0018 com.salton123.sf.libbase:id/clip_horizontal: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0019 com.salton123.sf.libbase:id/clip_vertical: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001a com.salton123.sf.libbase:id/fill: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001b com.salton123.sf.libbase:id/fill_horizontal: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001c com.salton123.sf.libbase:id/mini: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001d com.salton123.sf.libbase:id/fixed: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001e com.salton123.sf.libbase:id/scrollable: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c001f com.salton123.sf.libbase:id/btn_flow: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0020 com.salton123.sf.libbase:id/btn_wechat: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0021 com.salton123.sf.libbase:id/btn_zhihu: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0022 com.salton123.sf.libbase:id/ll_root: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0023 com.salton123.sf.libbase:id/fl_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0024 com.salton123.sf.libbase:id/tv_content: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0025 com.salton123.sf.libbase:id/smallLabel: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0026 com.salton123.sf.libbase:id/largeLabel: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0027 com.salton123.sf.libbase:id/touch_outside: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0028 com.salton123.sf.libbase:id/design_bottom_sheet: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0029 com.salton123.sf.libbase:id/snackbar_text: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002a com.salton123.sf.libbase:id/snackbar_action: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002b com.salton123.sf.libbase:id/navigation_header_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002c com.salton123.sf.libbase:id/design_navigation_view: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002d com.salton123.sf.libbase:id/design_menu_item_text: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002e com.salton123.sf.libbase:id/design_menu_item_action_area_stub: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c002f com.salton123.sf.libbase:id/design_menu_item_action_area: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0030 com.salton123.sf.libbase:id/text_input_password_toggle: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0031 com.salton123.sf.libbase:id/btn_next: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0032 com.salton123.sf.libbase:id/tv_name: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0033 com.salton123.sf.libbase:id/btn_next_with_finish: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0034 com.salton123.sf.libbase:id/coord: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0035 com.salton123.sf.libbase:id/fab: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0036 com.salton123.sf.libbase:id/toolbar: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0037 com.salton123.sf.libbase:id/tab_layout: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0038 com.salton123.sf.libbase:id/viewPager: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0039 com.salton123.sf.libbase:id/recy: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003a com.salton123.sf.libbase:id/et_account: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003b com.salton123.sf.libbase:id/et_password: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003c com.salton123.sf.libbase:id/login: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003d com.salton123.sf.libbase:id/btn_register: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003e com.salton123.sf.libbase:id/btn_login: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c003f com.salton123.sf.libbase:id/et_modify_title: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0040 com.salton123.sf.libbase:id/btn_modify: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0041 com.salton123.sf.libbase:id/et_password_confirm: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0042 com.salton123.sf.libbase:id/fl_list_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0043 com.salton123.sf.libbase:id/fl_content_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0044 com.salton123.sf.libbase:id/tv: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0045 com.salton123.sf.libbase:id/btn: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0046 com.salton123.sf.libbase:id/tv_title: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0047 com.salton123.sf.libbase:id/view_line: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0048 com.salton123.sf.libbase:id/img_avatar: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0049 com.salton123.sf.libbase:id/tv_msg: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004a com.salton123.sf.libbase:id/tv_time: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004b com.salton123.sf.libbase:id/img: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004c com.salton123.sf.libbase:id/ll_nav_header: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004d com.salton123.sf.libbase:id/img_nav: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004e com.salton123.sf.libbase:id/textView: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c004f com.salton123.sf.libbase:id/fl_tab_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0050 com.salton123.sf.libbase:id/bottomBar: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0051 com.salton123.sf.libbase:id/btn_start: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0052 com.salton123.sf.libbase:id/btn_start_dont_hide: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0053 com.salton123.sf.libbase:id/refresh_layout: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0054 com.salton123.sf.libbase:id/et_send: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0055 com.salton123.sf.libbase:id/btn_send: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0056 com.salton123.sf.libbase:id/tab: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0057 com.salton123.sf.libbase:id/fl_fourth_container_upper: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0058 com.salton123.sf.libbase:id/fl_fourth_container_lower: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0059 com.salton123.sf.libbase:id/tv_btn_settings: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005a com.salton123.sf.libbase:id/toolbarSettings: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005b com.salton123.sf.libbase:id/fl_second_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005c com.salton123.sf.libbase:id/fl_third_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005d com.salton123.sf.libbase:id/visible: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005e com.salton123.sf.libbase:id/masked: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c005f com.salton123.sf.libbase:id/nav_home: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0060 com.salton123.sf.libbase:id/nav_discover: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0061 com.salton123.sf.libbase:id/nav_msg: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0062 com.salton123.sf.libbase:id/nav_login: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0063 com.salton123.sf.libbase:id/nav_swipe_back: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0064 com.salton123.sf.libbase:id/action_anim: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0065 com.salton123.sf.libbase:id/action_anim_veritical: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0066 com.salton123.sf.libbase:id/action_anim_horizontal: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x3c0c0067 com.salton123.sf.libbase:id/action_anim_none: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+    type 12 configCount=1 entryCount=3
+      spec resource 0x3c0d0000 com.salton123.sf.libbase:menu/activity_main_drawer: flags=0x00000000
+      spec resource 0x3c0d0001 com.salton123.sf.libbase:menu/home: flags=0x00000000
+      spec resource 0x3c0d0002 com.salton123.sf.libbase:menu/home_pop: flags=0x00000000
+      config (default):
+        resource 0x3c0d0000 com.salton123.sf.libbase:menu/activity_main_drawer: t=0x03 d=0x0000011e (s=0x0008 r=0x00)
+          (string8) "res/menu/activity_main_drawer.xml"
+        resource 0x3c0d0001 com.salton123.sf.libbase:menu/home: t=0x03 d=0x0000011f (s=0x0008 r=0x00)
+          (string8) "res/menu/home.xml"
+        resource 0x3c0d0002 com.salton123.sf.libbase:menu/home_pop: t=0x03 d=0x00000120 (s=0x0008 r=0x00)
+          (string8) "res/menu/home_pop.xml"

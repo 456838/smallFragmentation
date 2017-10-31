@@ -1,0 +1,56 @@
+Package Groups (1)
+Package Group 0 id=0x52 packageCount=1 name=com.salton123.sf.appzhihu
+  DynamicRefTable entryCount=1:
+    0x52 -> com.salton123.sf.appzhihu
+
+  Package 0 id=0x52 name=com.salton123.sf.appzhihu
+    type 1 configCount=2 entryCount=4
+      spec resource 0x52020000 com.salton123.sf.appzhihu:layout/activity_main: flags=0x00000000
+      spec resource 0x52020001 com.salton123.sf.appzhihu:layout/zhihu_fragment_first: flags=0x00000000
+      spec resource 0x52020002 com.salton123.sf.appzhihu:layout/zhihu_fragment_first_detail: flags=0x00000400
+      spec resource 0x52020003 com.salton123.sf.appzhihu:layout/zhihu_fragment_first_home: flags=0x00000000
+      config (default):
+        resource 0x52020000 com.salton123.sf.appzhihu:layout/activity_main: t=0x03 d=0x00000000 (s=0x0008 r=0x00)
+          (string8) "res/layout/activity_main.xml"
+        resource 0x52020001 com.salton123.sf.appzhihu:layout/zhihu_fragment_first: t=0x03 d=0x00000001 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_first.xml"
+        resource 0x52020002 com.salton123.sf.appzhihu:layout/zhihu_fragment_first_detail: t=0x03 d=0x00000002 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_first_detail.xml"
+        resource 0x52020003 com.salton123.sf.appzhihu:layout/zhihu_fragment_first_home: t=0x03 d=0x00000003 (s=0x0008 r=0x00)
+          (string8) "res/layout/zhihu_fragment_first_home.xml"
+      config v21:
+        resource 0x52020002 com.salton123.sf.appzhihu:layout/zhihu_fragment_first_detail: t=0x03 d=0x00000004 (s=0x0008 r=0x00)
+          (string8) "res/layout-v21/zhihu_fragment_first_detail.xml"
+    type 2 configCount=1 entryCount=1
+      spec resource 0x52030000 com.salton123.sf.appzhihu:style/AppTheme: flags=0x00000000
+      config (default):
+        resource 0x52030000 com.salton123.sf.appzhihu:style/AppTheme: <bag>
+          Parent=0x7f08010a(Resolved=0x7f08010a), Count=3
+          #0 (Key=0x7f0100a9): (reference) 0x52040001
+          #1 (Key=0x7f0100aa): (reference) 0x52040002
+          #2 (Key=0x7f0100ab): (reference) 0x52040000
+    type 3 configCount=1 entryCount=3
+      spec resource 0x52040000 com.salton123.sf.appzhihu:color/colorAccent: flags=0x00000000
+      spec resource 0x52040001 com.salton123.sf.appzhihu:color/colorPrimary: flags=0x00000000
+      spec resource 0x52040002 com.salton123.sf.appzhihu:color/colorPrimaryDark: flags=0x00000000
+      config (default):
+        resource 0x52040000 com.salton123.sf.appzhihu:color/colorAccent: t=0x1d d=0xffff4081 (s=0x0008 r=0x00)
+          (color) #ffff4081
+        resource 0x52040001 com.salton123.sf.appzhihu:color/colorPrimary: t=0x1d d=0xff3f51b5 (s=0x0008 r=0x00)
+          (color) #ff3f51b5
+        resource 0x52040002 com.salton123.sf.appzhihu:color/colorPrimaryDark: t=0x1d d=0xff303f9f (s=0x0008 r=0x00)
+          (color) #ff303f9f
+    type 4 configCount=1 entryCount=4
+      spec resource 0x52050000 com.salton123.sf.appzhihu:id/fl_first_container: flags=0x00000000
+      spec resource 0x52050001 com.salton123.sf.appzhihu:id/app_bar: flags=0x00000000
+      spec resource 0x52050002 com.salton123.sf.appzhihu:id/toolbar_layout: flags=0x00000000
+      spec resource 0x52050003 com.salton123.sf.appzhihu:id/img_detail: flags=0x00000000
+      config (default):
+        resource 0x52050000 com.salton123.sf.appzhihu:id/fl_first_container: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x52050001 com.salton123.sf.appzhihu:id/app_bar: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x52050002 com.salton123.sf.appzhihu:id/toolbar_layout: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
+        resource 0x52050003 com.salton123.sf.appzhihu:id/img_detail: t=0x12 d=0x00000000 (s=0x0008 r=0x00)
+          (color) #00000000
