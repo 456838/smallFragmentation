@@ -1,1 +1,1 @@
-include ':app', ':app+stub', ':lib.base', ':app.zhihu', ':app.wechat', ':app.flow'
+include ':app', ':app+stub', ':lib.base', ':app.zhihu', ':app.wechat', ':app.flow', ':app.xmly', ':app.main'

@@ -152,3 +152,10 @@ int id action_anim_none 0x3c08002c
 int menu activity_main_drawer 0x3c090000
 int menu home 0x3c090001
 int menu home_pop 0x3c090002
+int drawable ic_keyboard_arrow_left_white_18dp 0x3c020016
+int layout simple_title_layout 0x3c030018
+int layout status_title_bar 0x3c030019
+int id view_status_title_bar 0x3c08002d
+int id tv_title_back 0x3c08002e
+int id tv_title_additional 0x3c08002f
+int id iv_more 0x3c080030

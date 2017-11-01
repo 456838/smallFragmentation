@@ -20,6 +20,7 @@ int drawable ic_settings_grey_500_24dp 0x3c020012
 int drawable ic_touch_app_white_24dp 0x3c020013
 int drawable logo 0x3c020014
 int drawable side_nav_bar 0x3c020015
+int drawable ic_keyboard_arrow_left_white_18dp 0x3c020016
 int layout activity_enter 0x3c030000
 int layout activity_swipe_back 0x3c030001
 int layout content_detail 0x3c030002
@@ -44,6 +45,8 @@ int layout item_wechat_msg 0x3c030014
 int layout item_zhihu_home_first 0x3c030015
 int layout nav_header_main 0x3c030016
 int layout toolbar 0x3c030017
+int layout simple_title_layout 0x3c030018
+int layout status_title_bar 0x3c030019
 int string account 0x3c040000
 int string action_anim_v 0x3c040001
 int string all 0x3c040002
@@ -152,6 +155,10 @@ int id action_anim 0x3c080029
 int id action_anim_veritical 0x3c08002a
 int id action_anim_horizontal 0x3c08002b
 int id action_anim_none 0x3c08002c
+int id view_status_title_bar 0x3c08002d
+int id tv_title_back 0x3c08002e
+int id tv_title_additional 0x3c08002f
+int id iv_more 0x3c080030
 int menu activity_main_drawer 0x3c090000
 int menu home 0x3c090001
 int menu home_pop 0x3c090002

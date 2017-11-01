@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <TextView
+        android:id="@+id/track_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:maxEms="15"
+        android:maxLength="15"
+        android:textColor="@color/text_black"
+        tools:text="我想对肩上背负的地狱说些话我想对肩上背负的地狱说些话我想对肩上背负的地狱说些话" />
+
+    <TextView
+        android:id="@+id/track_tags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/track_title"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:gravity="left"
+        android:textColor="@color/dark_gray"
+        android:textSize="10sp"
+        tools:text="- STORY -" />
+
+    <ImageView
+        android:id="@+id/iv_download"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:visibility="invisible"
+        android:src="@drawable/ic_launcher" />
+
+    <ImageView
+        android:id="@+id/iv_play_music"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_play_music"
+        android:visibility="invisible"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/iv_download"
+        android:layout_toStartOf="@+id/iv_download" />
+</RelativeLayout>

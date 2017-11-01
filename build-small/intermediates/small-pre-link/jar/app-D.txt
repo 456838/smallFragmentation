@@ -1,2 +1,14 @@
 com.android.support:support-annotations:26.0.0-alpha1
 org.greenrobot:eventbus:3.0.0
+io.reactivex.rxjava2:rxjava:2.1.2
+com.parse.bolts:bolts-tasks:1.4.0
+com.android.support.constraint:constraint-layout-solver:1.0.2
+com.squareup.retrofit2:converter-gson:2.3.0
+com.squareup.okio:okio:1.13.0
+com.squareup.okhttp3:okhttp:3.8.1
+com.squareup.retrofit2:adapter-rxjava2:2.3.0
+com.squareup.okhttp3:logging-interceptor:3.8.1
+com.google.code.gson:gson:2.8.1
+com.squareup.retrofit2:retrofit:2.3.0
+com.android.databinding:baseLibrary:2.3.0
+org.reactivestreams:reactive-streams:1.0.0

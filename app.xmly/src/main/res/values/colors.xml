@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_gray">@android:color/darker_gray</color>
+    <color name="text_black">#88000000</color>
+
+    <!--<color name="selected_bg">#e5dcda</color>-->
+    <!--<color name="textcolor">#333</color>-->
+    <!--<color name="red">#ff0000</color>-->
+
+    <color name="text_shadow">#7F000000</color>
+    <color name="background">#fffafafa</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="transfer">#00000000</color>
+    <color name="progressBackgroundColorLight">#33000000</color>
+
+    <!-- 常用颜色 -->
+    <color name="black">#000000</color>
+    <color name="black_alpha">#8A000000</color>
+    <color name="black_alpha_more">#64000000</color>
+    <color name="black_normal">#DE000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha">#8AFFFFFF</color>
+    <color name="white_normal">#DEFFFFFF</color>
+    <color name="grey">#cccccc</color>
+    <color name="grey_alpha">#8Acccccc</color>
+
+    <color name="color_light_blue">#00DDB6</color>
+    <color name="txt_color">#48495F</color>
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="bg_app">#F1F1F1</color>
+    <color name="bg_btn">#dadada</color>
+    <color name="ic_default_color">#31C27C</color>
+
+</resources>
