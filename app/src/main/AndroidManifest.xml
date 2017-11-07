@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:name=".SaltonApplication"
         android:theme="@style/AppTheme.NoActionBar">
-        <activity android:name=".MainActivity" android:theme="@style/AppTheme.NoActionBar.FullScreen">
+        <activity android:name=".SplashActivity" android:theme="@style/AppTheme.NoActionBar.FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

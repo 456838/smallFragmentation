@@ -16,8 +16,21 @@
         "first": ".ui.fragment.first.ZhihuFirstFragment",
         "second": ".ui.fragment.second.ZhihuSecondFragment"
       }
-    },{
+    },
+
+    {
+      "uri": "appmain",
+      "pkg": "com.salton123.sf.appmain",
+      "rules": {
+        "hello": ".HelloActivity",
+        "second": ".ui.fragment.second.ZhihuSecondFragment"
+      }
+    },
+    {
       "pkg": "com.salton123.sf.libbase"
+    },
+    {
+      "pkg": "com.salton123.sf.libsaltonframework"
     }
   ]
 }

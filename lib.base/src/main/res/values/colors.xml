@@ -7,4 +7,5 @@
 
     <color name="tab_unselect">#c9c9c9</color>
     <color name="bg_btn">#dadada</color>
+    <color name="default_background">#efeff4</color>
 </resources>
