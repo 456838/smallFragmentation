@@ -797,6 +797,7 @@ int id fill
 int id fill_horizontal
 int id fill_vertical
 int id fixed
+int id font_view
 int id hierarchy
 int id home
 int id homeAsUp
@@ -1019,6 +1020,7 @@ int style AppTheme
 int style AppTheme_AppBarOverlay
 int style AppTheme_NoActionBar
 int style AppTheme_NoActionBar_AppBarOverlay
+int style AppTheme_NoActionBar_FullScreen
 int style AppTheme_NoActionBar_PopupOverlay
 int style AppTheme_NoActionBar_SwipeBack
 int style AppTheme_PopupOverlay
@@ -1976,6 +1978,7 @@ int layout item_wechat_msg
 int layout item_zhihu_home_first
 int layout nav_header_main
 int layout toolbar
+int layout fm_container
 int string account
 int string action_anim_v
 int string all
@@ -2033,6 +2036,7 @@ int dimen fab_margin
 int dimen nav_header_height
 int dimen nav_header_vertical_spacing
 int dimen text_margin
+int color default_background
 int array array_content
 int array array_menu
 int array array_title

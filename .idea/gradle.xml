@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/app.xmly" />
             <option value="$PROJECT_DIR$/app.zhihu" />
             <option value="$PROJECT_DIR$/lib.base" />
+            <option value="$PROJECT_DIR$/lib.saltonframework" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

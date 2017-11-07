@@ -44,6 +44,7 @@ int layout item_wechat_msg 0x3c030014
 int layout item_zhihu_home_first 0x3c030015
 int layout nav_header_main 0x3c030016
 int layout toolbar 0x3c030017
+int layout fm_container 0x3c030018
 int string account 0x3c040000
 int string action_anim_v 0x3c040001
 int string all 0x3c040002
@@ -101,6 +102,7 @@ int dimen fab_margin 0x3c050004
 int dimen nav_header_height 0x3c050005
 int dimen nav_header_vertical_spacing 0x3c050006
 int dimen text_margin 0x3c050007
+int color default_background 0x3c060003
 int array array_content 0x3c070000
 int array array_menu 0x3c070001
 int array array_title 0x3c070002
