@@ -22,3 +22,4 @@ smallFragmentation:app+stub:1.0.0-beata
 me.yokeyword:fragmentation-swipeback:1.1.7
 me.yokeyword:eventbus-activity-scope:1.0.2
 com.android.support:support-core-utils:26.0.0-alpha1
+sf:app+stub:1.0.0-beata

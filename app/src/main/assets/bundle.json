@@ -17,7 +17,14 @@
         "second": ".ui.fragment.second.ZhihuSecondFragment"
       }
     },
-
+    {
+      "uri": "wechat",
+      "pkg": "com.salton123.sf.appwechat",
+      "rules": {
+        "first": ".ui.fragment.first.ZhihuFirstFragment",
+        "second": ".ui.fragment.second.ZhihuSecondFragment"
+      }
+    },
     {
       "uri": "appmain",
       "pkg": "com.salton123.sf.appmain",

@@ -25,7 +25,7 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         animationView = (LottieAnimationView) findViewById(R.id.animation_view);
-        animationView.setSpeed(1.5f);
+        animationView.setSpeed(2f);
         Observable.timer(2000, TimeUnit.MILLISECONDS)
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
@@ -46,7 +46,8 @@ public class SplashActivity extends AppCompatActivity {
     private void gotoMain() {
         String url = Small.getBaseUri();
         System.out.println("url=" + url);
-        Small.openUri("appmain", SplashActivity.this);
+        Small.openUri("wechat", SplashActivity.this);
+//        Small.openUri("appmain", SplashActivity.this);
 //        Small.openUri("appmain", Small.getContext());
     }
 }

@@ -10,7 +10,7 @@
         android:layout_marginBottom="@dimen/bottombar_wechat_height"
         android:layout_height="match_parent"/>
 
-    <me.yokeyword.sample.demo_wechat.ui.view.BottomBar
+    <com.salton123.sf.appwechat.ui.view.BottomBar
         android:id="@+id/bottomBar"
         android:layout_width="match_parent"
         android:layout_height="@dimen/bottombar_wechat_height"
