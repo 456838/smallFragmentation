@@ -37,4 +37,8 @@ dependencies {
     compile 'com.squareup.retrofit2:converter-gson:2.3.0'
     compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
     compile 'com.elvishew:xlog:1.4.0'
+    compile 'com.facebook.fresco:fresco:1.4.0'
+    compile 'cn.jzvd:jiaozivideoplayer:6.1.2'
+    compile 'cn.bingoogolapple:bga-adapter:1.1.9'
+    compile 'cn.bingoogolapple:bga-refreshlayout:1.1.7'
 }

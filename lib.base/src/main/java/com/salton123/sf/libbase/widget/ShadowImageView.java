@@ -15,8 +15,8 @@ import android.os.Build;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.animation.LinearInterpolator;
+import android.widget.ImageView;
 
-import com.facebook.drawee.view.SimpleDraweeView;
 
 /**
  * Created with Android Studio.
@@ -27,7 +27,7 @@ import com.facebook.drawee.view.SimpleDraweeView;
  * Stole from {@link android.support.v4.widget.SwipeRefreshLayout}'s implementation to display beautiful shadow
  * for circle ImageView.
  */
-public class ShadowImageView extends SimpleDraweeView {
+public class ShadowImageView extends ImageView {
 
     private static final int KEY_SHADOW_COLOR = 0x1E000000;
     private static final int FILL_SHADOW_COLOR = 0x3D000000;

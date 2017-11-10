@@ -13,9 +13,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.salton123.sf.libbase.R;
-import com.salton123.util.BlankUtil;
+import com.salton123.sf.util.BlankUtil;
+import com.salton123.sf.util.PixelUtil;
 
-import org.xutils.common.util.DensityUtil;
 
 /**
  * User: 巫金生(newSalton@outlook.com)
@@ -54,8 +54,8 @@ public class StatusTitleBar extends RelativeLayout {
     }
 
     private void init() {
-        setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, DensityUtil.dip2px(72)));
-        mView = LayoutInflater.from(getContext()).inflate(R.layout.status_title_bar,this, false);
+        setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, PixelUtil.dp2px(72)));
+        mView = LayoutInflater.from(getContext()).inflate(R.layout.status_title_bar, this, false);
         tv_title_back = f(R.id.tv_title_back);
         tv_title = f(R.id.tv_title);
         tv_title_additional = f(R.id.tv_title_additional);

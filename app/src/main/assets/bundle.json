@@ -21,17 +21,12 @@
       "uri": "wechat",
       "pkg": "com.salton123.sf.appwechat",
       "rules": {
-        "first": ".ui.fragment.first.ZhihuFirstFragment",
-        "second": ".ui.fragment.second.ZhihuSecondFragment"
+        "video": ".ui.fragment.VideoFragment"
       }
     },
     {
       "uri": "appmain",
-      "pkg": "com.salton123.sf.appmain",
-      "rules": {
-        "hello": ".HelloActivity",
-        "second": ".ui.fragment.second.ZhihuSecondFragment"
-      }
+      "pkg": "com.salton123.sf.appmain"
     },
     {
       "pkg": "com.salton123.sf.libbase"

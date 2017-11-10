@@ -8,3 +8,5 @@
 /captures
 .externalNativeBuild
 */build
+/app/build/
+/app/smallLibs

@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.airbnb.lottie.LottieAnimationView;
+import com.elvishew.xlog.XLog;
 
 import net.wequick.small.Small;
 
@@ -37,6 +38,7 @@ public class SplashActivity extends AppCompatActivity {
                             public void onComplete() {
                                 gotoMain();
                                 SplashActivity.this.finish();
+                                XLog.d(Small.getBundles());
                             }
                         });
                     }
@@ -46,8 +48,8 @@ public class SplashActivity extends AppCompatActivity {
     private void gotoMain() {
         String url = Small.getBaseUri();
         System.out.println("url=" + url);
-        Small.openUri("wechat", SplashActivity.this);
-//        Small.openUri("appmain", SplashActivity.this);
+//        Small.openUri("wechat", SplashActivity.this);
+        Small.openUri("appmain", SplashActivity.this);
 //        Small.openUri("appmain", Small.getContext());
     }
 }

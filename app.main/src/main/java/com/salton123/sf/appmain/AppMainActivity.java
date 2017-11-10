@@ -1,14 +1,10 @@
 package com.salton123.sf.appmain;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.view.View;
 
 import com.salton123.sf.appmain.ui.fm.MainFragment;
 import com.salton123.sf.base.BaseSupportActivity;
 import com.salton123.sf.base.BaseSupportFragment;
-import com.salton123.sf.util.LogUtils;
 
 public class AppMainActivity extends BaseSupportActivity {
     @Override
@@ -23,21 +19,21 @@ public class AppMainActivity extends BaseSupportActivity {
         }
 
         // 可以监听该Activity下的所有Fragment的18个 生命周期方法
-        getSupportFragmentManager().registerFragmentLifecycleCallbacks(new android.support.v4.app.FragmentManager.FragmentLifecycleCallbacks() {
-
-            public void onFragmentCreated(FragmentManager fm, Fragment f, Bundle savedInstanceState) {
-                LogUtils.d("onFragmentCreated->" + f.toString());
-            }
-
-            public void onFragmentViewCreated(FragmentManager fm, Fragment f, View v,
-                                              Bundle savedInstanceState) {
-                LogUtils.d("onFragmentViewCreated->" + f.toString());
-            }
-
-            public void onFragmentViewDestroyed(FragmentManager fm, Fragment f) {
-                LogUtils.d("onFragmentViewDestroyed->" + f.toString());
-            }
-        }, true);
+//        getSupportFragmentManager().registerFragmentLifecycleCallbacks(new android.support.v4.app.FragmentManager.FragmentLifecycleCallbacks() {
+//
+//            public void onFragmentCreated(FragmentManager fm, Fragment f, Bundle savedInstanceState) {
+//                LogUtils.d("onFragmentCreated->" + f.toString());
+//            }
+//
+//            public void onFragmentViewCreated(FragmentManager fm, Fragment f, View v,
+//                                              Bundle savedInstanceState) {
+//                LogUtils.d("onFragmentViewCreated->" + f.toString());
+//            }
+//
+//            public void onFragmentViewDestroyed(FragmentManager fm, Fragment f) {
+//                LogUtils.d("onFragmentViewDestroyed->" + f.toString());
+//            }
+//        }, true);
 
     }
 

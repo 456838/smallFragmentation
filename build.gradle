@@ -37,4 +37,9 @@ task clean(type: Delete) {
 small {
 //    aarVersion = '1.1.0-alpha2'   //可以不指定，默认为small版本号
     strictSplitResources = false
+    android {
+        compileSdkVersion = "${compile_sdk_version}" as Integer
+        buildToolsVersion = "${build_tools_version}"
+        supportVersion = "${support_version}"
+    }
 }

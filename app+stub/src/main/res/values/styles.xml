@@ -13,6 +13,7 @@
         <item name="windowNoTitle">true</item>
         <!--在无需多点触控的页面上，建议关闭多点触控-->
         <item name="android:splitMotionEvents">false</item>
+        <item name="android:fitsSystemWindows">false</item>
     </style>
 
     <style name="AppTheme.NoActionBar.FullScreen" parent="AppTheme.NoActionBar">

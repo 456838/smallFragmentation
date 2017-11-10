@@ -5,6 +5,7 @@ import android.app.Application;
 
 import com.elvishew.xlog.LogLevel;
 import com.elvishew.xlog.XLog;
+import com.salton123.sf.appstub.FrescoImageLoader;
 
 import net.wequick.small.Small;
 
@@ -18,7 +19,7 @@ public class SaltonApplication extends Application {
 
     public SaltonApplication() {
         Small.preSetUp(this);       //由于ContentProvider在onCreate之前被调用，为支持在插件中使用该组件，我们需要提前到构造方法来对之进行懒加载。
-        Small.setBaseUri("http://salton123.com");
+//        Small.setBaseUri("http://salton123.com");
     }
 
     public static SaltonApplication mInstance;
@@ -32,6 +33,7 @@ public class SaltonApplication extends Application {
         super.onCreate();
         mInstance = this;
         XLog.init(BuildConfig.DEBUG ? LogLevel.ALL : LogLevel.NONE);
+        FrescoImageLoader.Init(this);
     }
 
     /**

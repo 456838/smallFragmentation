@@ -3,6 +3,7 @@ package com.salton123.sf.util;
 import android.content.Context;
 import android.content.res.Resources;
 
+import net.wequick.small.Small;
 
 
 /** 像素转换工具
@@ -13,7 +14,7 @@ public class PixelUtil {
     /**
      * The context.
      */
-    private static Context mContext =null;
+    private static Context mContext = Small.getContext();
 
     /**
      * dp转 px.

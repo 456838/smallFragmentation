@@ -3,24 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app+stub/app+stub.iml" filepath="$PROJECT_DIR$/app+stub/app+stub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.flow/app.flow.iml" filepath="$PROJECT_DIR$/app.flow/app.flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app.flow/app.flow.iml" filepath="$PROJECT_DIR$/app.flow/app.flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.main/app.main.iml" filepath="$PROJECT_DIR$/app.main/app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.wechat/app.wechat.iml" filepath="$PROJECT_DIR$/app.wechat/app.wechat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app.wechat/app.wechat.iml" filepath="$PROJECT_DIR$/app.wechat/app.wechat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app.xmly/app.xmly.iml" filepath="$PROJECT_DIR$/app.xmly/app.xmly.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app.zhihu/app.zhihu.iml" filepath="$PROJECT_DIR$/app.zhihu/app.zhihu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.zhihu/app.zhihu.iml" filepath="$PROJECT_DIR$/app.zhihu/app.zhihu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.base/lib.base.iml" filepath="$PROJECT_DIR$/lib.base/lib.base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.base/lib.base.iml" filepath="$PROJECT_DIR$/lib.base/lib.base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib.saltonframework/lib.saltonframework.iml" filepath="$PROJECT_DIR$/lib.saltonframework/lib.saltonframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.saltonframework/lib.saltonframework.iml" filepath="$PROJECT_DIR$/lib.saltonframework/lib.saltonframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/sf.iml" filepath="$PROJECT_DIR$/sf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smallFragmentation.iml" filepath="$PROJECT_DIR$/smallFragmentation.iml" />
     </modules>
   </component>
 </project>
